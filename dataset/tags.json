@@ -1,4 +1,14 @@
 {
+  "abkhazia": [
+    "2008-02-17-kosovo-declares-independence-russia-warns-of-precedent",
+    "2008-04-16-putin-orders-direct-ties-with-abkhazia-and-south-ossetia",
+    "2008-07-08-russian-jets-violate-georgian-airspace-as-tensions-rise",
+    "2008-08-09-fighting-in-the-kodori-valley-abkhazia",
+    "2008-08-10-black-sea-naval-clash-off-abkhazia",
+    "2008-08-26-russia-recognizes-abkhazia-and-south-ossetia",
+    "2008-10-01-eu-monitoring-mission-deploys-in-georgia",
+    "2019-07-amnesty-report-on-borderization-along-the-boundary-line"
+  ],
   "abrams": [
     "2023-01-25-western-tank-decisions"
   ],
@@ -14,7 +24,8 @@
     "2023-04-04-finland-joins-nato",
     "2023-12-14-eu-opens-accession-talks",
     "2024-03-07-sweden-joins-nato",
-    "2024-06-25-eu-opens-accession-talks-ukraine-moldova"
+    "2024-06-25-eu-opens-accession-talks-ukraine-moldova",
+    "2025-03-26-armenia-eu-accession-law"
   ],
   "accountability": [
     "2023-05-17-council-of-europe-register-of-damage",
@@ -44,14 +55,29 @@
     "2022-05-09-lend-lease-act-signed",
     "2022-12-21-us-patriot-battery-aid-package",
     "2023-07-07-us-cluster-munitions-ukraine",
+    "2023-10-09-israel-orders-complete-siege-of-gaza",
     "2023-12-06-us-senate-blocks-ukraine-aid",
+    "2024-01-26-unrwa-funding-suspended-after-staff-allegations",
     "2024-02-28-eu-ukraine-facility-approved",
+    "2024-02-29-flour-massacre-gaza-city",
+    "2024-03-02-us-conducts-first-airdrop-of-aid-into-gaza",
+    "2024-03-07-biden-announces-gaza-aid-pier",
+    "2024-04-01-world-central-kitchen-convoy-strike",
     "2024-04-24-us-aid-package-ukraine-signed",
     "2024-04-24-us-signs-ukraine-aid-package",
+    "2024-05-24-icj-orders-israel-halt-rafah-offensive",
+    "2024-07-17-us-gaza-pier-dismantled",
     "2024-08-04-first-f-16-arrive-ukraine",
+    "2024-10-06-jabalia-northern-gaza-siege",
+    "2024-10-28-knesset-passes-laws-banning-unrwa",
     "2024-11-06-trump-wins-us-election",
+    "2024-11-08-famine-review-committee-alert-northern-gaza",
+    "2025-03-02-israel-halts-all-aid-and-goods-entering-gaza",
     "2025-03-05-us-pauses-intelligence-sharing-with-ukraine",
     "2025-03-11-jeddah-talks-ceasefire-proposal",
+    "2025-05-19-israel-allows-limited-aid-into-gaza-after-blockade",
+    "2025-05-26-gaza-humanitarian-foundation-begins-operations",
+    "2025-08-22-ipc-confirms-famine-in-gaza-governorate",
     "2026-04-23-eu-approves-90-billion-loan",
     "2026-06-09-bulgaria-stops-arms-supplies-to-ukraine",
     "2026-09-19-us-approves-air-defense-sale-ukraine"
@@ -77,6 +103,9 @@
   "airdefense": [
     "2026-09-19-us-approves-air-defense-sale-ukraine"
   ],
+  "airdrops": [
+    "2024-03-02-us-conducts-first-airdrop-of-aid-into-gaza"
+  ],
   "airfield": [
     "2023-10-17-atacms-first-use-airfields"
   ],
@@ -87,12 +116,28 @@
     "2022-02-24-battle-of-antonov-airport-hostomel"
   ],
   "airspace": [
+    "2008-07-08-russian-jets-violate-georgian-airspace-as-tensions-rise",
     "2025-09-10-russian-drones-enter-polish-airspace",
     "2026-05-19-nato-jet-downs-drone-over-estonia"
   ],
   "airstrike": [
     "2022-03-09-mariupol-maternity-hospital-airstrike",
-    "2022-03-16-mariupol-drama-theatre-airstrike"
+    "2022-03-16-mariupol-drama-theatre-airstrike",
+    "2024-04-01-israeli-strike-iranian-consulate-damascus",
+    "2024-04-19-israeli-strike-isfahan-iran",
+    "2024-07-20-israel-strikes-hodeidah-port",
+    "2024-07-30-fuad-shukr-killed-beirut",
+    "2024-09-27-nasrallah-killed-beirut-strike",
+    "2024-10-26-israeli-strikes-iran",
+    "2025-05-28-netanyahu-says-mohammed-sinwar-killed",
+    "2025-08-28-israeli-strike-sanaa-houthi-government",
+    "2025-09-09-israel-strikes-hamas-leaders-in-doha"
+  ],
+  "airstrikes": [
+    "2008-08-08-russian-air-strikes-on-gori-vaziani-and-poti",
+    "2025-03-15-operation-rough-rider-us-strikes-yemen",
+    "2025-03-18-israel-resumes-strikes-on-gaza-ending-ceasefire",
+    "2025-06-13-israel-launches-strikes-iran-rising-lion"
   ],
   "alabuga": [
     "2025-07-21-alabuga-shahed-geran-drone-plant-tatarstan"
@@ -100,12 +145,28 @@
   "alaska": [
     "2025-08-15-trump-putin-alaska-summit"
   ],
+  "aliyev": [
+    "2020-11-08-shusha-captured",
+    "2023-09-19-azerbaijan-offensive-karabakh",
+    "2023-12-07-armenia-azerbaijan-joint-statement"
+  ],
   "alliance": [
     "2024-03-07-sweden-joins-nato"
   ],
+  "alshifa": [
+    "2023-11-15-israeli-forces-raid-al-shifa-hospital",
+    "2024-03-18-israeli-forces-raid-al-shifa-hospital-again"
+  ],
+  "aludeid": [
+    "2025-06-23-iran-strikes-al-udeid-air-base"
+  ],
   "amnesty": [
+    "2019-07-amnesty-report-on-borderization-along-the-boundary-line",
     "2022-03-16-mariupol-drama-theatre-airstrike",
     "2022-03-16-mariupol-drama-theatre-strike"
+  ],
+  "amsterdam": [
+    "2024-11-07-amsterdam-maccabi-ajax-violence"
   ],
   "anchorage": [
     "2025-08-15-trump-putin-alaska-summit"
@@ -115,28 +176,77 @@
     "2022-09-30-russia-annexes-four-oblasts",
     "2022-10-01-lyman-liberated"
   ],
+  "antisemitism": [
+    "2024-11-07-amsterdam-maccabi-ajax-violence"
+  ],
+  "aoun": [
+    "2025-08-05-lebanon-cabinet-hezbollah-disarmament-plan"
+  ],
   "arctic": [
     "2024-02-16-navalny-dies-in-prison"
+  ],
+  "armenia": [
+    "2020-07-12-tavush-border-clashes",
+    "2020-09-27-bayraktar-loitering-munitions-karabakh",
+    "2020-09-27-karabakh-war-begins",
+    "2020-11-08-shusha-captured",
+    "2020-11-10-armenian-protests-against-ceasefire",
+    "2020-11-10-karabakh-ceasefire-statement",
+    "2021-11-16-armenia-azerbaijan-border-clashes",
+    "2022-09-13-armenia-azerbaijan-border-clashes",
+    "2022-12-12-lachin-corridor-blockade",
+    "2023-02-22-icj-order-lachin-corridor",
+    "2023-09-19-azerbaijan-offensive-karabakh",
+    "2023-09-20-karabakh-ceasefire-surrender",
+    "2023-09-27-ruben-vardanyan-detained",
+    "2023-10-01-karabakh-exodus-100000",
+    "2023-12-07-armenia-azerbaijan-joint-statement",
+    "2024-01-01-artsakh-republic-dissolved",
+    "2024-02-22-armenia-freezes-csto-participation",
+    "2024-05-24-tavush-border-villages-returned",
+    "2024-06-12-russian-peacekeepers-leave-karabakh",
+    "2025-03-13-armenia-azerbaijan-peace-text-finalized",
+    "2025-03-26-armenia-eu-accession-law",
+    "2025-08-08-washington-summit-trump-route",
+    "2025-08-11-peace-agreement-text-published",
+    "2025-09-01-osce-minsk-group-dissolved",
+    "2026-02-05-baku-court-sentences-karabakh-leaders"
   ],
   "arms": [
     "2023-02-21-putin-suspends-new-start",
     "2023-11-07-russia-cfe-withdrawal-nato-suspends"
   ],
   "army": [
+    "2008-08-08-russian-forces-enter-south-ossetia-through-roki-tunnel",
     "2024-04-02-ukraine-lowers-mobilisation-age-to-25"
   ],
   "article": [
     "2025-09-10-russian-drones-enter-polish-airspace"
   ],
   "artillery": [
+    "2008-08-07-georgian-forces-launch-operation-in-south-ossetia",
+    "2020-07-12-tavush-border-clashes",
     "2022-07-24-himars-effect-on-front",
+    "2023-10-08-hezbollah-shebaa-farms-fire",
     "2024-02-17-avdiivka-withdrawal",
     "2025-07-13-south-korea-estimate-north-korean-shells-russia"
+  ],
+  "artsakh": [
+    "2020-09-27-karabakh-war-begins",
+    "2020-11-08-shusha-captured",
+    "2024-01-01-artsakh-republic-dissolved"
+  ],
+  "ashdod": [
+    "2024-07-17-us-gaza-pier-dismantled"
+  ],
+  "aspirations": [
+    "2008-04-03-nato-bucharest-summit-denies-georgia-map"
   ],
   "assad": [
     "2024-12-08-assad-falls-russian-bases-syria"
   ],
   "assassination": [
+    "2024-07-31-haniyeh-assassinated-in-tehran",
     "2024-12-17-kirillov-assassinated-moscow"
   ],
   "assets": [
@@ -166,6 +276,33 @@
     "2022-08-09-saky-airbase-explosions",
     "2023-08-23-prigozhin-plane-crash"
   ],
+  "avnevi": [
+    "2008-08-07-georgia-announces-unilateral-ceasefire-in-south-ossetia"
+  ],
+  "azerbaijan": [
+    "2020-07-12-tavush-border-clashes",
+    "2020-09-27-bayraktar-loitering-munitions-karabakh",
+    "2020-09-27-karabakh-war-begins",
+    "2020-11-08-shusha-captured",
+    "2020-11-10-karabakh-ceasefire-statement",
+    "2021-11-16-armenia-azerbaijan-border-clashes",
+    "2022-09-13-armenia-azerbaijan-border-clashes",
+    "2022-12-12-lachin-corridor-blockade",
+    "2023-02-22-icj-order-lachin-corridor",
+    "2023-09-19-azerbaijan-offensive-karabakh",
+    "2023-09-20-karabakh-ceasefire-surrender",
+    "2023-09-27-ruben-vardanyan-detained",
+    "2023-10-01-karabakh-exodus-100000",
+    "2023-12-07-armenia-azerbaijan-joint-statement",
+    "2024-01-01-artsakh-republic-dissolved",
+    "2024-05-24-tavush-border-villages-returned",
+    "2024-06-12-russian-peacekeepers-leave-karabakh",
+    "2025-03-13-armenia-azerbaijan-peace-text-finalized",
+    "2025-08-08-washington-summit-trump-route",
+    "2025-08-11-peace-agreement-text-published",
+    "2025-09-01-osce-minsk-group-dissolved",
+    "2026-02-05-baku-court-sentences-karabakh-leaders"
+  ],
   "azot": [
     "2022-06-25-sievierodonetsk-falls-to-russian-forces"
   ],
@@ -176,9 +313,16 @@
   "azovstal": [
     "2022-05-16-azovstal-garrison-leaves-steelworks"
   ],
+  "bagapsh": [
+    "2008-08-09-fighting-in-the-kodori-valley-abkhazia"
+  ],
   "bakhmut": [
     "2023-01-11-soledar-capture",
     "2023-05-20-bakhmut-wagner-capture-claim"
+  ],
+  "baku": [
+    "2023-09-27-ruben-vardanyan-detained",
+    "2026-02-05-baku-court-sentences-karabakh-leaders"
   ],
   "balakliia": [
     "2022-09-06-kharkiv-counteroffensive"
@@ -194,12 +338,27 @@
   "bank": [
     "2022-02-26-joint-statement-swift-central-bank"
   ],
+  "barrack": [
+    "2025-08-05-lebanon-cabinet-hezbollah-disarmament-plan"
+  ],
   "bases": [
     "2024-12-08-assad-falls-russian-bases-syria"
   ],
   "battle": [
     "2023-05-20-bakhmut-wagner-capture-claim",
     "2023-10-10-avdiivka-assault-begins"
+  ],
+  "bayraktar": [
+    "2020-09-27-bayraktar-loitering-munitions-karabakh"
+  ],
+  "bayramov": [
+    "2025-03-13-armenia-azerbaijan-peace-text-finalized"
+  ],
+  "beirut": [
+    "2024-07-30-fuad-shukr-killed-beirut",
+    "2024-09-17-hezbollah-pager-explosions",
+    "2024-09-18-hezbollah-walkie-talkie-explosions",
+    "2024-09-27-nasrallah-killed-beirut-strike"
   ],
   "belarus": [
     "2022-03-02-unga-resolution-es-11-1-vote",
@@ -232,9 +391,15 @@
     "2023-01-25-western-tank-decisions",
     "2023-07-07-us-cluster-munitions-ukraine",
     "2023-12-06-us-senate-blocks-ukraine-aid",
+    "2024-01-11-us-uk-strikes-houthis-yemen",
+    "2024-03-07-biden-announces-gaza-aid-pier",
     "2024-04-24-us-aid-package-ukraine-signed",
     "2024-04-24-us-signs-ukraine-aid-package",
-    "2024-11-17-us-permits-atacms-strikes-in-russia"
+    "2024-05-31-biden-announces-three-phase-ceasefire-proposal",
+    "2024-06-10-unsc-adopts-resolution-2735",
+    "2024-09-01-six-hostages-found-dead-in-rafah",
+    "2024-11-17-us-permits-atacms-strikes-in-russia",
+    "2025-01-15-gaza-ceasefire-agreement-announced"
   ],
   "blackout": [
     "2022-10-10-russia-missile-strikes-energy",
@@ -245,6 +410,7 @@
     "2025-12-27-kyiv-attack-heating-power-outages"
   ],
   "blacksea": [
+    "2008-08-10-black-sea-naval-clash-off-abkhazia",
     "2022-02-24-snake-island-border-guards-warship",
     "2022-02-turkey-montreux-straits-warships",
     "2022-04-14-sinking-of-the-moskva",
@@ -263,7 +429,20 @@
     "2024-03-07-sweden-joins-nato"
   ],
   "blockade": [
-    "2022-06-30-russia-withdraws-from-snake-island"
+    "2022-06-30-russia-withdraws-from-snake-island",
+    "2022-12-12-lachin-corridor-blockade",
+    "2023-02-22-icj-order-lachin-corridor",
+    "2025-03-02-israel-halts-all-aid-and-goods-entering-gaza",
+    "2025-05-19-israel-allows-limited-aid-into-gaza-after-blockade"
+  ],
+  "boardofpeace": [
+    "2025-09-29-trump-unveils-20-point-gaza-peace-plan",
+    "2025-11-17-un-security-council-adopts-resolution-2803-on-gaza",
+    "2026-01-16-white-house-announces-board-of-peace-and-gaza-administration-committee",
+    "2026-02-19-five-countries-pledge-troops-for-gaza-stabilization-force",
+    "2026-04-14-hamas-rejects-board-of-peace-disarmament-plan",
+    "2026-07-30-board-of-peace-announces-phased-hamas-disarmament-roadmap",
+    "2026-09-23-board-of-peace-proposes-2-45-billion-gaza-reconstruction-plan"
   ],
   "bomb": [
     "2024-12-17-kirillov-assassinated-moscow"
@@ -273,10 +452,26 @@
     "2025-06-01-operation-spiderweb"
   ],
   "border": [
+    "2020-07-12-tavush-border-clashes",
+    "2021-11-16-armenia-azerbaijan-border-clashes",
     "2022-02-24-snake-island-border-guards-warship",
+    "2022-09-13-armenia-azerbaijan-border-clashes",
+    "2023-10-08-hezbollah-shebaa-farms-fire",
+    "2023-10-20-kiryat-shmona-evacuation-ordered",
     "2023-12-06-us-senate-blocks-ukraine-aid",
     "2024-05-10-russian-kharkiv-offensive",
-    "2024-08-06-kursk-incursion-begins"
+    "2024-05-24-tavush-border-villages-returned",
+    "2024-08-06-kursk-incursion-begins",
+    "2024-10-01-israel-ground-operation-southern-lebanon"
+  ],
+  "borderization": [
+    "2019-07-amnesty-report-on-borderization-along-the-boundary-line"
+  ],
+  "borders": [
+    "2025-08-11-peace-agreement-text-published"
+  ],
+  "borisov": [
+    "2008-08-13-russian-forces-occupy-gori"
   ],
   "bornholm": [
     "2022-09-26-nord-stream-explosions"
@@ -286,6 +481,9 @@
   ],
   "bosphorus": [
     "2022-02-turkey-montreux-straits-warships"
+  ],
+  "boundary": [
+    "2008-10-01-eu-monitoring-mission-deploys-in-georgia"
   ],
   "bout": [
     "2022-12-08-griner-bout-prisoner-swap"
@@ -311,6 +509,7 @@
     "2023-05-11-storm-shadow-missiles-uk"
   ],
   "brussels": [
+    "2009-09-30-tagliavini-report-on-the-conflict-in-georgia",
     "2022-05-18-finland-sweden-nato-applications",
     "2022-06-23-eu-grants-candidate-status-ukraine-moldova",
     "2023-12-14-eu-opens-accession-talks",
@@ -318,6 +517,9 @@
   ],
   "bucha": [
     "2022-04-03-bucha-civilian-killings-discovered"
+  ],
+  "bucharest": [
+    "2008-04-03-nato-bucharest-summit-denies-georgia-map"
   ],
   "budanov": [
     "2024-10-28-nato-confirms-north-korean-troops-kursk"
@@ -329,6 +531,10 @@
   "budget": [
     "2024-02-28-eu-ukraine-facility-approved"
   ],
+  "buffer": [
+    "2008-08-22-russia-claims-pullout-from-gori-complete",
+    "2008-09-13-russian-troops-leave-poti-area"
+  ],
   "bulgaria": [
     "2026-06-09-bulgaria-stops-arms-supplies-to-ukraine"
   ],
@@ -338,6 +544,13 @@
   "burgenstock": [
     "2024-06-15-burgenstock-peace-summit"
   ],
+  "cabinet": [
+    "2025-08-05-lebanon-cabinet-hezbollah-disarmament-plan",
+    "2025-08-07-israeli-security-cabinet-approves-gaza-city-takeover-plan"
+  ],
+  "cairo": [
+    "2026-04-14-hamas-rejects-board-of-peace-disarmament-plan"
+  ],
   "call": [
     "2025-02-12-trump-putin-phone-call"
   ],
@@ -346,16 +559,51 @@
     "2022-06-23-european-council-candidate-status-ukraine-moldova",
     "2024-06-25-eu-opens-accession-talks-ukraine-moldova"
   ],
+  "captured": [
+    "2021-11-16-armenia-azerbaijan-border-clashes"
+  ],
   "casualties": [
+    "2008-08-11-fighting-for-tskhinvali-ends-and-casualty-claims",
+    "2022-09-13-armenia-azerbaijan-border-clashes",
     "2022-11-10-milley-russian-casualties-estimate",
-    "2023-01-01-makiivka-strike"
+    "2023-01-01-makiivka-strike",
+    "2023-10-27-gaza-health-ministry-casualty-figures-credibility",
+    "2024-10-28-gaza-health-ministry-death-toll-passes-43000"
   ],
   "ceasefire": [
+    "2008-08-07-georgia-announces-unilateral-ceasefire-in-south-ossetia",
+    "2008-08-12-sarkozy-brokers-ceasefire-between-russia-and-georgia",
+    "2020-11-10-armenian-protests-against-ceasefire",
+    "2020-11-10-karabakh-ceasefire-statement",
+    "2021-11-16-armenia-azerbaijan-border-clashes",
+    "2022-09-13-armenia-azerbaijan-border-clashes",
+    "2023-09-20-karabakh-ceasefire-surrender",
+    "2024-03-25-un-security-council-resolution-2728",
+    "2024-05-31-biden-announces-three-phase-ceasefire-proposal",
+    "2024-06-10-unsc-adopts-resolution-2735",
+    "2024-09-02-histadrut-general-strike-over-hostages",
+    "2024-11-27-israel-lebanon-ceasefire",
+    "2025-01-15-gaza-ceasefire-agreement-announced",
+    "2025-01-19-first-hostages-released-gaza-ceasefire",
+    "2025-02-27-hamas-hands-over-four-hostage-bodies-israel-frees-prisoners",
+    "2025-03-02-israel-halts-all-aid-and-goods-entering-gaza",
     "2025-03-11-jeddah-talks-ceasefire-proposal",
+    "2025-03-18-israel-resumes-strikes-on-gaza-ending-ceasefire",
     "2025-03-25-riyadh-talks-black-sea-ceasefire",
+    "2025-05-06-us-houthi-ceasefire-oman",
     "2025-05-16-istanbul-talks-prisoner-swap-agreed",
+    "2025-06-24-israel-iran-ceasefire",
+    "2025-08-05-lebanon-cabinet-hezbollah-disarmament-plan",
     "2025-08-15-trump-putin-alaska-summit",
+    "2025-09-09-israel-strikes-hamas-leaders-in-doha",
+    "2025-10-08-israel-and-hamas-agree-first-phase-of-trump-plan",
+    "2025-10-13-hamas-releases-20-living-hostages",
+    "2026-01-26-last-hostage-ran-gvili-body-recovered-from-gaza",
+    "2026-02-01-rafah-crossing-partially-reopens",
     "2026-04-11-orthodox-easter-truce",
+    "2026-04-14-hamas-rejects-board-of-peace-disarmament-plan",
+    "2026-10-05-guterres-calls-for-permanent-gaza-ceasefire",
+    "2026-10-10-one-year-since-gaza-ceasefire",
     "2026-10-13-trump-energy-ceasefire-claim"
   ],
   "centralbank": [
@@ -375,6 +623,8 @@
     "2023-03-17-icc-warrants-putin-lvova-belova",
     "2023-06-28-vatican-zuppi-moscow-ukrainian-children",
     "2024-07-08-okhmatdyt-hospital-strike",
+    "2024-07-27-majdal-shams-rocket-strike",
+    "2024-08-16-gaza-polio-vaccination-campaign-pauses",
     "2026-04-22-bring-kids-back-ua-over-2100-children-returned"
   ],
   "china": [
@@ -386,7 +636,14 @@
     "2024-06-15-burgenstock-global-peace-summit",
     "2025-05-09-victory-day-parade-moscow-xi"
   ],
+  "civildefence": [
+    "2024-04-21-nasser-hospital-mass-graves-khan-younis"
+  ],
   "civilians": [
+    "2008-08-09-fighting-in-the-kodori-valley-abkhazia",
+    "2008-08-11-fighting-for-tskhinvali-ends-and-casualty-claims",
+    "2008-08-12-medvedev-announces-end-of-military-operation",
+    "2008-08-13-russian-forces-occupy-gori",
     "2022-03-01-kharkiv-freedom-square-strike",
     "2022-03-09-mariupol-maternity-hospital-airstrike",
     "2022-03-16-mariupol-drama-theatre-airstrike",
@@ -396,27 +653,65 @@
     "2022-11-23-russian-strikes-nationwide-blackouts-ukraine",
     "2023-01-14-dnipro-apartment-strike",
     "2023-10-05-hroza-cafe-strike",
+    "2023-10-07-hamas-attack-on-southern-israel",
+    "2023-10-09-israel-orders-complete-siege-of-gaza",
+    "2023-10-13-israel-orders-northern-gaza-evacuation",
+    "2023-10-17-al-ahli-arab-hospital-explosion",
+    "2023-10-27-israel-expands-ground-operations-in-gaza",
+    "2023-11-15-israeli-forces-raid-al-shifa-hospital",
+    "2023-12-05-israel-expands-offensive-to-khan-younis",
+    "2024-02-09-netanyahu-orders-rafah-evacuation-plan",
+    "2024-02-15-israeli-forces-storm-nasser-hospital",
+    "2024-02-29-flour-massacre-gaza-city",
+    "2024-03-02-us-conducts-first-airdrop-of-aid-into-gaza",
+    "2024-03-18-israeli-forces-raid-al-shifa-hospital-again",
+    "2024-04-01-world-central-kitchen-convoy-strike",
+    "2024-05-26-tel-al-sultan-rafah-strike",
+    "2024-06-08-nuseirat-hostage-rescue",
     "2024-07-08-okhmatdyt-hospital-strike",
+    "2024-07-13-al-mawasi-strike-targets-mohammed-deif",
     "2024-08-19-pokrovsk-evacuation-order",
+    "2024-10-06-jabalia-northern-gaza-siege",
+    "2024-10-25-kamal-adwan-hospital-raid",
+    "2024-10-28-gaza-health-ministry-death-toll-passes-43000",
+    "2024-11-08-famine-review-committee-alert-northern-gaza",
+    "2025-03-18-israel-resumes-strikes-on-gaza-ending-ceasefire",
     "2025-04-13-sumy-palm-sunday-missile-strike",
+    "2025-08-22-ipc-confirms-famine-in-gaza-governorate",
+    "2025-09-16-israel-begins-gaza-city-ground-offensive",
+    "2025-09-16-un-commission-of-inquiry-finds-genocide-in-gaza",
     "2026-01-27-kharkiv-oblast-passenger-train-strike",
-    "2026-05-24-russian-strike-on-kyiv-oreshnik"
+    "2026-05-24-russian-strike-on-kyiv-oreshnik",
+    "2026-10-05-guterres-calls-for-permanent-gaza-ceasefire"
   ],
   "clash": [
     "2025-02-28-oval-office-meeting"
   ],
+  "clashes": [
+    "2020-07-12-tavush-border-clashes",
+    "2021-11-16-armenia-azerbaijan-border-clashes",
+    "2022-09-13-armenia-azerbaijan-border-clashes"
+  ],
+  "climate": [
+    "2023-12-07-armenia-azerbaijan-joint-statement"
+  ],
   "cluster": [
     "2023-07-07-us-cluster-munitions-ukraine"
   ],
+  "clustermunitions": [
+    "2009-01-23-hrw-publishes-up-in-flames-report"
+  ],
   "coalition": [
-    "2023-07-11-f16-training-coalition"
+    "2023-07-11-f16-training-coalition",
+    "2023-12-18-operation-prosperity-guardian-announced"
   ],
   "command": [
     "2024-02-08-syrskyi-replaces-zaluzhnyi",
     "2026-07-21-zelensky-replaces-syrskyi-with-drapatyi"
   ],
   "commission": [
-    "2023-03-16-un-commission-energy-attacks-torture"
+    "2023-03-16-un-commission-energy-attacks-torture",
+    "2025-09-16-un-commission-of-inquiry-finds-genocide-in-gaza"
   ],
   "communique": [
     "2024-06-15-burgenstock-global-peace-summit",
@@ -428,6 +723,10 @@
   "conference": [
     "2022-07-04-ukraine-recovery-conference-lugano",
     "2025-02-14-vance-munich-security-conference-speech"
+  ],
+  "conflict": [
+    "2020-09-27-karabakh-war-begins",
+    "2020-11-08-shusha-captured"
   ],
   "congress": [
     "2022-03-16-zelensky-addresses-us-congress",
@@ -442,8 +741,15 @@
     "2024-04-02-ukraine-lowers-mobilisation-age-to-25",
     "2024-04-16-ukraine-mobilisation-law-signed"
   ],
+  "constitution": [
+    "2025-03-13-armenia-azerbaijan-peace-text-finalized"
+  ],
+  "consulate": [
+    "2024-04-01-israeli-strike-iranian-consulate-damascus"
+  ],
   "corridor": [
-    "2023-10-24-ukrainian-black-sea-corridor-grain-exports"
+    "2023-10-24-ukrainian-black-sea-corridor-grain-exports",
+    "2025-08-08-washington-summit-trump-route"
   ],
   "council": [
     "2023-12-14-eu-opens-accession-talks"
@@ -458,6 +764,10 @@
     "2022-10-01-lyman-liberated",
     "2023-06-04-ukrainian-summer-counteroffensive",
     "2023-08-28-robotyne-recaptured"
+  ],
+  "court": [
+    "2021-01-21-echr-grand-chamber-judgment-georgia-v-russia-ii",
+    "2023-02-22-icj-order-lachin-corridor"
   ],
   "crash": [
     "2023-08-23-prigozhin-plane-crash",
@@ -475,6 +785,14 @@
   "crimesagainsthumanity": [
     "2023-03-16-un-commission-energy-attacks-torture"
   ],
+  "crossing": [
+    "2026-02-01-rafah-crossing-partially-reopens"
+  ],
+  "csto": [
+    "2024-02-22-armenia-freezes-csto-participation",
+    "2024-06-12-russian-peacekeepers-leave-karabakh",
+    "2025-03-26-armenia-eu-accession-law"
+  ],
   "culture": [
     "2025-06-25-unesco-verified-cultural-damage-501-sites"
   ],
@@ -485,6 +803,10 @@
   "damage": [
     "2025-02-25-rdna4-reconstruction-cost-524-billion",
     "2025-06-25-unesco-verified-cultural-damage-501-sites"
+  ],
+  "damascus": [
+    "2024-04-01-israeli-strike-iranian-consulate-damascus",
+    "2024-04-13-iran-drone-missile-attack-israel"
   ],
   "danube": [
     "2023-10-24-ukrainian-black-sea-corridor-grain-exports"
@@ -502,7 +824,9 @@
     "2024-07-10-nato-washington-summit-declaration"
   ],
   "decree": [
-    "2022-09-21-putin-announces-partial-mobilisation"
+    "2008-04-16-putin-orders-direct-ties-with-abkhazia-and-south-ossetia",
+    "2022-09-21-putin-announces-partial-mobilisation",
+    "2024-01-01-artsakh-republic-dissolved"
   ],
   "defence": [
     "2022-02-27-scholz-zeitenwende-bundestag-speech",
@@ -510,6 +834,13 @@
     "2026-07-15-zelensky-dismisses-defense-minister-fedorov",
     "2026-08-19-rada-appoints-khmara-defense-minister",
     "2026-10-12-eu-approves-record-russia-sanctions-listings"
+  ],
+  "deif": [
+    "2024-07-13-al-mawasi-strike-targets-mohammed-deif",
+    "2024-11-21-icc-issues-warrants-netanyahu-gallant-deif"
+  ],
+  "delimitation": [
+    "2024-05-24-tavush-border-villages-returned"
   ],
   "demining": [
     "2025-06-05-unmas-demining-contamination-ukraine"
@@ -521,6 +852,9 @@
   "deportation": [
     "2023-03-17-icc-warrants-putin-lvova-belova",
     "2026-04-22-bring-kids-back-ua-over-2100-children-returned"
+  ],
+  "detention": [
+    "2023-09-27-ruben-vardanyan-detained"
   ],
   "diesel": [
     "2026-02-18-hungary-slovakia-suspend-diesel-exports"
@@ -534,19 +868,40 @@
     "2024-06-15-burgenstock-peace-summit",
     "2025-02-12-trump-putin-phone-call",
     "2025-03-25-riyadh-talks-black-sea-ceasefire",
+    "2025-08-11-peace-agreement-text-published",
+    "2025-09-01-osce-minsk-group-dissolved",
     "2026-09-23-ukraine-transfers-north-korean-pows-to-south-korea"
   ],
   "directive": [
     "2022-03-04-eu-temporary-protection-directive"
   ],
+  "disarmament": [
+    "2023-09-20-karabakh-ceasefire-surrender",
+    "2025-08-05-lebanon-cabinet-hezbollah-disarmament-plan",
+    "2026-04-14-hamas-rejects-board-of-peace-disarmament-plan",
+    "2026-07-30-board-of-peace-announces-phased-hamas-disarmament-roadmap",
+    "2026-09-23-board-of-peace-proposes-2-45-billion-gaza-reconstruction-plan",
+    "2026-10-10-one-year-since-gaza-ceasefire"
+  ],
   "disaster": [
     "2023-06-06-kakhovka-dam-destruction"
+  ],
+  "displaced": [
+    "2009-01-23-hrw-publishes-up-in-flames-report"
   ],
   "displacement": [
     "2022-03-03-unhcr-one-million-refugees-fled-ukraine",
     "2022-03-04-eu-temporary-protection-directive",
     "2022-03-15-three-million-refugees-flee-ukraine",
-    "2022-04-05-iom-7-million-internally-displaced-ukraine"
+    "2022-04-05-iom-7-million-internally-displaced-ukraine",
+    "2023-10-13-israel-orders-northern-gaza-evacuation",
+    "2024-05-06-rafah-offensive-begins",
+    "2024-05-26-tel-al-sultan-rafah-strike",
+    "2024-10-06-jabalia-northern-gaza-siege",
+    "2025-09-16-israel-begins-gaza-city-ground-offensive"
+  ],
+  "dissolution": [
+    "2024-01-01-artsakh-republic-dissolved"
   ],
   "dmitriev": [
     "2025-11-19-reported-28-point-us-russia-peace-plan"
@@ -556,6 +911,9 @@
     "2023-01-14-dnipro-apartment-strike",
     "2023-06-06-kakhovka-dam-destruction",
     "2024-11-21-oreshnik-strike-dnipro"
+  ],
+  "doha": [
+    "2025-09-09-israel-strikes-hamas-leaders-in-doha"
   ],
   "donbas": [
     "2022-06-25-sievierodonetsk-falls-to-russian-forces",
@@ -588,11 +946,15 @@
     "2025-11-23-us-ukraine-talks-geneva"
   ],
   "drones": [
+    "2020-07-12-tavush-border-clashes",
+    "2020-09-27-bayraktar-loitering-munitions-karabakh",
     "2022-12-05-engels-dyagilevo-airbase-strikes",
     "2023-07-17-crimean-bridge-second-attack",
     "2023-07-19-odesa-port-strikes-after-grain-deal",
     "2024-03-05-sergey-kotov-sea-drone-attack",
     "2024-03-12-ukrainian-drones-strike-refineries",
+    "2024-04-13-iran-drone-missile-attack-israel",
+    "2024-07-20-israel-strikes-hodeidah-port",
     "2025-05-09-victory-day-parade-moscow-xi",
     "2025-06-01-operation-spiderweb",
     "2025-07-21-alabuga-shahed-geran-drone-plant-tatarstan",
@@ -621,6 +983,9 @@
   "eastern": [
     "2025-09-10-russian-drones-enter-polish-airspace"
   ],
+  "echr": [
+    "2021-01-21-echr-grand-chamber-judgment-georgia-v-russia-ii"
+  ],
   "economist": [
     "2023-11-01-zaluzhnyi-stalemate-essay"
   ],
@@ -633,6 +998,17 @@
   ],
   "education": [
     "2025-06-25-unesco-verified-cultural-damage-501-sites"
+  ],
+  "egypt": [
+    "2025-02-27-hamas-hands-over-four-hostage-bodies-israel-frees-prisoners",
+    "2025-05-12-hamas-releases-us-israeli-hostage-edan-alexander",
+    "2025-08-07-israeli-security-cabinet-approves-gaza-city-takeover-plan",
+    "2025-10-08-israel-and-hamas-agree-first-phase-of-trump-plan",
+    "2025-10-13-hamas-releases-20-living-hostages",
+    "2025-11-17-un-security-council-adopts-resolution-2803-on-gaza",
+    "2026-01-16-white-house-announces-board-of-peace-and-gaza-administration-committee",
+    "2026-02-01-rafah-crossing-partially-reopens",
+    "2026-02-19-five-countries-pledge-troops-for-gaza-stabilization-force"
   ],
   "election": [
     "2024-11-06-trump-wins-us-election"
@@ -704,6 +1080,9 @@
     "2026-05-19-nato-jet-downs-drone-over-estonia"
   ],
   "eu": [
+    "2008-10-01-eu-monitoring-mission-deploys-in-georgia",
+    "2008-10-15-geneva-international-discussions-open",
+    "2009-09-30-tagliavini-report-on-the-conflict-in-georgia",
     "2022-02-26-joint-statement-swift-central-bank",
     "2022-03-04-eu-temporary-protection-directive",
     "2022-06-23-eu-grants-candidate-status-ukraine-moldova",
@@ -717,12 +1096,16 @@
     "2024-06-25-eu-opens-accession-talks-ukraine-moldova",
     "2024-07-05-orban-moscow-visit-putin",
     "2024-10-25-g7-era-loans-frozen-russian-assets",
+    "2025-03-26-armenia-eu-accession-law",
     "2025-12-19-eu-agrees-90-billion-euro-loan-for-ukraine",
     "2026-02-18-hungary-slovakia-suspend-diesel-exports",
     "2026-04-23-eu-approves-90-billion-loan",
     "2026-05-15-special-tribunal-aggression-36-countries",
     "2026-06-09-bulgaria-stops-arms-supplies-to-ukraine",
     "2026-10-12-eu-approves-record-russia-sanctions-listings"
+  ],
+  "eumm": [
+    "2008-10-01-eu-monitoring-mission-deploys-in-georgia"
   ],
   "europe": [
     "2023-11-07-russia-cfe-withdrawal-nato-suspends",
@@ -733,8 +1116,12 @@
   "evacuation": [
     "2022-04-08-kramatorsk-railway-station-strike",
     "2023-06-06-kakhovka-dam-destruction-humanitarian",
+    "2023-10-13-israel-orders-northern-gaza-evacuation",
+    "2023-10-20-kiryat-shmona-evacuation-ordered",
+    "2024-02-09-netanyahu-orders-rafah-evacuation-plan",
     "2024-05-10-russian-kharkiv-offensive",
-    "2024-08-19-pokrovsk-evacuation-order"
+    "2024-08-19-pokrovsk-evacuation-order",
+    "2024-10-01-israel-ground-operation-southern-lebanon"
   ],
   "exchange": [
     "2024-01-24-il-76-crash-belgorod",
@@ -744,9 +1131,16 @@
   "exhumation": [
     "2022-09-15-izium-mass-graves"
   ],
+  "exodus": [
+    "2023-10-01-karabakh-exodus-100000"
+  ],
   "explosion": [
     "2022-08-09-saky-airbase-explosions",
     "2022-10-08-crimean-bridge-explosion"
+  ],
+  "explosions": [
+    "2024-09-17-hezbollah-pager-explosions",
+    "2024-09-18-hezbollah-walkie-talkie-explosions"
   ],
   "exports": [
     "2022-07-22-black-sea-grain-initiative-signed",
@@ -759,11 +1153,20 @@
   "facility": [
     "2024-02-28-eu-ukraine-facility-approved"
   ],
+  "famine": [
+    "2024-02-29-flour-massacre-gaza-city",
+    "2024-11-08-famine-review-committee-alert-northern-gaza",
+    "2025-05-19-israel-allows-limited-aid-into-gaza-after-blockade",
+    "2025-08-22-ipc-confirms-famine-in-gaza-governorate"
+  ],
   "fedorov": [
     "2026-07-15-zelensky-dismisses-defense-minister-fedorov"
   ],
   "fedoruk": [
     "2022-04-03-bucha-civilian-killings-discovered"
+  ],
+  "fences": [
+    "2019-07-amnesty-report-on-borderization-along-the-boundary-line"
   ],
   "fico": [
     "2026-02-18-hungary-slovakia-suspend-diesel-exports"
@@ -798,27 +1201,149 @@
     "2022-07-22-black-sea-grain-initiative-istanbul",
     "2022-07-22-black-sea-grain-initiative-signed"
   ],
+  "fordow": [
+    "2025-06-22-us-strikes-fordow-natanz-isfahan"
+  ],
+  "france": [
+    "2008-04-03-nato-bucharest-summit-denies-georgia-map",
+    "2008-08-12-sarkozy-brokers-ceasefire-between-russia-and-georgia",
+    "2024-11-27-israel-lebanon-ceasefire"
+  ],
   "front": [
     "2025-03-13-russia-claims-recapture-of-sudzha-kursk",
     "2025-12-10-isw-assessment-pokrovsk-myrnohrad-fighting"
   ],
   "funding": [
-    "2023-12-06-us-senate-blocks-ukraine-aid"
+    "2023-12-06-us-senate-blocks-ukraine-aid",
+    "2024-01-26-unrwa-funding-suspended-after-staff-allegations"
+  ],
+  "galaxyleader": [
+    "2025-01-22-galaxy-leader-crew-released"
+  ],
+  "gallant": [
+    "2024-05-20-icc-prosecutor-seeks-warrants-israel-hamas",
+    "2024-11-21-icc-issues-warrants-netanyahu-gallant-deif"
+  ],
+  "ganja": [
+    "2020-09-27-karabakh-war-begins"
   ],
   "gas": [
     "2022-09-26-nord-stream-explosions"
+  ],
+  "gaza": [
+    "2023-10-07-hamas-attack-on-southern-israel",
+    "2023-10-08-israel-declares-state-of-war",
+    "2023-10-09-israel-orders-complete-siege-of-gaza",
+    "2023-10-13-israel-orders-northern-gaza-evacuation",
+    "2023-10-17-al-ahli-arab-hospital-explosion",
+    "2023-10-27-gaza-health-ministry-casualty-figures-credibility",
+    "2023-10-27-israel-expands-ground-operations-in-gaza",
+    "2023-11-15-israeli-forces-raid-al-shifa-hospital",
+    "2023-11-24-truce-begins-and-first-hostages-freed",
+    "2023-12-01-gaza-truce-collapses-and-fighting-resumes",
+    "2023-12-05-israel-expands-offensive-to-khan-younis",
+    "2023-12-29-south-africa-files-genocide-case-at-icj",
+    "2024-01-26-icj-orders-provisional-measures-in-south-africa-v-israel",
+    "2024-01-26-unrwa-funding-suspended-after-staff-allegations",
+    "2024-02-09-netanyahu-orders-rafah-evacuation-plan",
+    "2024-02-15-israeli-forces-storm-nasser-hospital",
+    "2024-02-29-flour-massacre-gaza-city",
+    "2024-03-02-us-conducts-first-airdrop-of-aid-into-gaza",
+    "2024-03-07-biden-announces-gaza-aid-pier",
+    "2024-03-18-israeli-forces-raid-al-shifa-hospital-again",
+    "2024-03-25-un-security-council-resolution-2728",
+    "2024-04-01-world-central-kitchen-convoy-strike",
+    "2024-04-21-nasser-hospital-mass-graves-khan-younis",
+    "2024-05-06-rafah-offensive-begins",
+    "2024-05-20-icc-prosecutor-seeks-warrants-israel-hamas",
+    "2024-05-24-icj-orders-israel-halt-rafah-offensive",
+    "2024-05-26-tel-al-sultan-rafah-strike",
+    "2024-05-31-biden-announces-three-phase-ceasefire-proposal",
+    "2024-06-08-nuseirat-hostage-rescue",
+    "2024-06-10-unsc-adopts-resolution-2735",
+    "2024-07-13-al-mawasi-strike-targets-mohammed-deif",
+    "2024-07-17-us-gaza-pier-dismantled",
+    "2024-08-16-gaza-polio-vaccination-campaign-pauses",
+    "2024-09-01-six-hostages-found-dead-in-rafah",
+    "2024-10-06-jabalia-northern-gaza-siege",
+    "2024-10-16-sinwar-killed-in-rafah",
+    "2024-10-25-kamal-adwan-hospital-raid",
+    "2024-10-28-gaza-health-ministry-death-toll-passes-43000",
+    "2024-10-28-knesset-passes-laws-banning-unrwa",
+    "2024-11-08-famine-review-committee-alert-northern-gaza",
+    "2024-11-21-icc-issues-warrants-netanyahu-gallant-deif",
+    "2025-01-15-gaza-ceasefire-agreement-announced",
+    "2025-01-19-first-hostages-released-gaza-ceasefire",
+    "2025-02-27-hamas-hands-over-four-hostage-bodies-israel-frees-prisoners",
+    "2025-03-02-israel-halts-all-aid-and-goods-entering-gaza",
+    "2025-03-18-israel-resumes-strikes-on-gaza-ending-ceasefire",
+    "2025-05-12-hamas-releases-us-israeli-hostage-edan-alexander",
+    "2025-05-19-israel-allows-limited-aid-into-gaza-after-blockade",
+    "2025-05-26-gaza-humanitarian-foundation-begins-operations",
+    "2025-05-28-netanyahu-says-mohammed-sinwar-killed",
+    "2025-08-07-israeli-security-cabinet-approves-gaza-city-takeover-plan",
+    "2025-08-22-ipc-confirms-famine-in-gaza-governorate",
+    "2025-09-16-israel-begins-gaza-city-ground-offensive",
+    "2025-09-16-un-commission-of-inquiry-finds-genocide-in-gaza",
+    "2025-09-29-trump-unveils-20-point-gaza-peace-plan",
+    "2025-10-08-israel-and-hamas-agree-first-phase-of-trump-plan",
+    "2025-10-13-hamas-releases-20-living-hostages",
+    "2025-11-17-un-security-council-adopts-resolution-2803-on-gaza",
+    "2026-01-16-white-house-announces-board-of-peace-and-gaza-administration-committee",
+    "2026-01-26-last-hostage-ran-gvili-body-recovered-from-gaza",
+    "2026-02-01-rafah-crossing-partially-reopens",
+    "2026-02-19-five-countries-pledge-troops-for-gaza-stabilization-force",
+    "2026-04-14-hamas-rejects-board-of-peace-disarmament-plan",
+    "2026-07-30-board-of-peace-announces-phased-hamas-disarmament-roadmap",
+    "2026-09-23-board-of-peace-proposes-2-45-billion-gaza-reconstruction-plan",
+    "2026-10-05-guterres-calls-for-permanent-gaza-ceasefire",
+    "2026-10-10-one-year-since-gaza-ceasefire"
   ],
   "gdp": [
     "2023-03-31-imf-approves-15-billion-eff-ukraine",
     "2023-04-06-world-bank-ukraine-gdp-2022-contraction"
   ],
   "geneva": [
+    "2008-10-15-geneva-international-discussions-open",
     "2025-11-23-us-ukraine-talks-geneva",
     "2026-02-17-geneva-trilateral-talks"
   ],
+  "genocide": [
+    "2008-08-11-fighting-for-tskhinvali-ends-and-casualty-claims",
+    "2009-09-30-tagliavini-report-on-the-conflict-in-georgia",
+    "2023-12-29-south-africa-files-genocide-case-at-icj",
+    "2024-01-26-icj-orders-provisional-measures-in-south-africa-v-israel",
+    "2024-05-24-icj-orders-israel-halt-rafah-offensive",
+    "2025-09-16-un-commission-of-inquiry-finds-genocide-in-gaza"
+  ],
   "georgia": [
+    "2008-02-17-kosovo-declares-independence-russia-warns-of-precedent",
+    "2008-04-03-nato-bucharest-summit-denies-georgia-map",
+    "2008-04-16-putin-orders-direct-ties-with-abkhazia-and-south-ossetia",
+    "2008-07-08-russian-jets-violate-georgian-airspace-as-tensions-rise",
+    "2008-08-07-georgia-announces-unilateral-ceasefire-in-south-ossetia",
+    "2008-08-07-georgian-forces-launch-operation-in-south-ossetia",
+    "2008-08-08-russian-air-strikes-on-gori-vaziani-and-poti",
+    "2008-08-08-russian-forces-enter-south-ossetia-through-roki-tunnel",
+    "2008-08-09-fighting-in-the-kodori-valley-abkhazia",
+    "2008-08-10-black-sea-naval-clash-off-abkhazia",
+    "2008-08-11-fighting-for-tskhinvali-ends-and-casualty-claims",
+    "2008-08-12-medvedev-announces-end-of-military-operation",
+    "2008-08-12-sarkozy-brokers-ceasefire-between-russia-and-georgia",
+    "2008-08-13-russian-forces-occupy-gori",
+    "2008-08-22-russia-claims-pullout-from-gori-complete",
+    "2008-08-26-russia-recognizes-abkhazia-and-south-ossetia",
+    "2008-09-13-russian-troops-leave-poti-area",
+    "2008-10-01-eu-monitoring-mission-deploys-in-georgia",
+    "2008-10-15-geneva-international-discussions-open",
+    "2009-01-23-hrw-publishes-up-in-flames-report",
+    "2009-09-30-tagliavini-report-on-the-conflict-in-georgia",
+    "2016-01-27-icc-authorises-investigation-in-georgia",
+    "2019-07-amnesty-report-on-borderization-along-the-boundary-line",
+    "2021-01-21-echr-grand-chamber-judgment-georgia-v-russia-ii",
     "2022-06-23-eu-grants-candidate-status-ukraine-moldova",
-    "2022-06-23-european-council-candidate-status-ukraine-moldova"
+    "2022-06-23-european-council-candidate-status-ukraine-moldova",
+    "2022-06-30-icc-issues-first-arrest-warrants-in-georgia-situation"
   ],
   "geran": [
     "2025-07-21-alabuga-shahed-geran-drone-plant-tatarstan"
@@ -828,6 +1353,7 @@
     "2025-03-13-russia-claims-recapture-of-sudzha-kursk"
   ],
   "germany": [
+    "2008-04-03-nato-bucharest-summit-denies-georgia-map",
     "2022-02-27-scholz-zeitenwende-bundestag-speech",
     "2022-04-26-ramstein-meeting-ukraine-defense-contact-group",
     "2022-09-26-nord-stream-explosions",
@@ -835,6 +1361,18 @@
     "2023-01-25-western-tank-decisions",
     "2025-02-14-vance-munich-security-conference-speech",
     "2025-12-14-berlin-talks-security-guarantees"
+  ],
+  "golan": [
+    "2024-07-27-majdal-shams-rocket-strike"
+  ],
+  "gorge": [
+    "2008-08-09-fighting-in-the-kodori-valley-abkhazia"
+  ],
+  "gori": [
+    "2008-08-08-russian-air-strikes-on-gori-vaziani-and-poti",
+    "2008-08-12-medvedev-announces-end-of-military-operation",
+    "2008-08-13-russian-forces-occupy-gori",
+    "2008-08-22-russia-claims-pullout-from-gori-complete"
   ],
   "grain": [
     "2022-06-30-russia-withdraws-from-snake-island",
@@ -856,6 +1394,9 @@
     "2022-08-29-iaea-isamz-mission-departs-for-zaporizhzhia",
     "2022-09-01-iaea-mission-zaporizhzhia-npp"
   ],
+  "groundoffensive": [
+    "2024-10-01-israel-ground-operation-southern-lebanon"
+  ],
   "growth": [
     "2023-04-06-world-bank-ukraine-gdp-2022-contraction"
   ],
@@ -867,10 +1408,21 @@
     "2025-08-18-white-house-meeting-zelensky-european-leaders",
     "2025-12-14-berlin-talks-security-guarantees"
   ],
+  "guchmazov": [
+    "2022-06-30-icc-issues-first-arrest-warrants-in-georgia-situation"
+  ],
   "guterres": [
-    "2024-10-22-brics-kazan-summit"
+    "2024-10-22-brics-kazan-summit",
+    "2026-10-05-guterres-calls-for-permanent-gaza-ceasefire"
+  ],
+  "gvili": [
+    "2026-01-26-last-hostage-ran-gvili-body-recovered-from-gaza"
+  ],
+  "gyla": [
+    "2021-01-21-echr-grand-chamber-judgment-georgia-v-russia-ii"
   ],
   "hague": [
+    "2016-01-27-icc-authorises-investigation-in-georgia",
     "2023-03-17-icc-putin-arrest-warrant",
     "2025-06-25-nato-hague-summit-five-percent-target",
     "2026-05-15-special-tribunal-aggression-36-countries"
@@ -878,17 +1430,75 @@
   "haidai": [
     "2022-06-25-sievierodonetsk-falls-to-russian-forces"
   ],
+  "hamas": [
+    "2023-10-07-hamas-attack-on-southern-israel",
+    "2023-10-08-israel-declares-state-of-war",
+    "2023-10-17-al-ahli-arab-hospital-explosion",
+    "2023-11-15-israeli-forces-raid-al-shifa-hospital",
+    "2023-11-22-israeli-cabinet-approves-hostage-truce-deal",
+    "2023-11-24-truce-begins-and-first-hostages-freed",
+    "2023-12-01-gaza-truce-collapses-and-fighting-resumes",
+    "2024-03-18-israeli-forces-raid-al-shifa-hospital-again",
+    "2024-05-06-rafah-offensive-begins",
+    "2024-05-20-icc-prosecutor-seeks-warrants-israel-hamas",
+    "2024-05-31-biden-announces-three-phase-ceasefire-proposal",
+    "2024-06-08-nuseirat-hostage-rescue",
+    "2024-06-10-unsc-adopts-resolution-2735",
+    "2024-07-13-al-mawasi-strike-targets-mohammed-deif",
+    "2024-07-31-haniyeh-assassinated-in-tehran",
+    "2024-09-01-six-hostages-found-dead-in-rafah",
+    "2024-10-16-sinwar-killed-in-rafah",
+    "2024-10-28-gaza-health-ministry-death-toll-passes-43000",
+    "2024-11-21-icc-issues-warrants-netanyahu-gallant-deif",
+    "2025-01-15-gaza-ceasefire-agreement-announced",
+    "2025-01-19-first-hostages-released-gaza-ceasefire",
+    "2025-02-27-hamas-hands-over-four-hostage-bodies-israel-frees-prisoners",
+    "2025-03-02-israel-halts-all-aid-and-goods-entering-gaza",
+    "2025-03-18-israel-resumes-strikes-on-gaza-ending-ceasefire",
+    "2025-05-12-hamas-releases-us-israeli-hostage-edan-alexander",
+    "2025-05-26-gaza-humanitarian-foundation-begins-operations",
+    "2025-05-28-netanyahu-says-mohammed-sinwar-killed",
+    "2025-08-07-israeli-security-cabinet-approves-gaza-city-takeover-plan",
+    "2025-09-09-israel-strikes-hamas-leaders-in-doha",
+    "2025-09-16-israel-begins-gaza-city-ground-offensive",
+    "2025-09-29-trump-unveils-20-point-gaza-peace-plan",
+    "2025-10-08-israel-and-hamas-agree-first-phase-of-trump-plan",
+    "2025-10-13-hamas-releases-20-living-hostages",
+    "2026-01-26-last-hostage-ran-gvili-body-recovered-from-gaza",
+    "2026-04-14-hamas-rejects-board-of-peace-disarmament-plan",
+    "2026-07-30-board-of-peace-announces-phased-hamas-disarmament-roadmap",
+    "2026-09-23-board-of-peace-proposes-2-45-billion-gaza-reconstruction-plan",
+    "2026-10-05-guterres-calls-for-permanent-gaza-ceasefire",
+    "2026-10-10-one-year-since-gaza-ceasefire"
+  ],
+  "haniyeh": [
+    "2024-05-20-icc-prosecutor-seeks-warrants-israel-hamas",
+    "2024-07-31-haniyeh-assassinated-in-tehran",
+    "2024-10-01-iran-missile-attack-israel"
+  ],
+  "harop": [
+    "2020-09-27-bayraktar-loitering-munitions-karabakh"
+  ],
   "harris": [
     "2024-11-06-trump-wins-us-election"
   ],
+  "harutyunyan": [
+    "2026-02-05-baku-court-sentences-karabakh-leaders"
+  ],
   "health": [
+    "2024-08-16-gaza-polio-vaccination-campaign-pauses",
     "2025-12-27-kyiv-attack-heating-power-outages"
+  ],
+  "healthministry": [
+    "2023-10-27-gaza-health-ministry-casualty-figures-credibility",
+    "2024-10-28-gaza-health-ministry-death-toll-passes-43000"
   ],
   "heating": [
     "2025-12-27-kyiv-attack-heating-power-outages"
   ],
   "hegseth": [
-    "2025-02-12-trump-putin-phone-call"
+    "2025-02-12-trump-putin-phone-call",
+    "2025-03-15-operation-rough-rider-us-strikes-yemen"
   ],
   "helicopters": [
     "2023-10-17-atacms-first-use-airfields"
@@ -896,16 +1506,72 @@
   "heritage": [
     "2025-06-25-unesco-verified-cultural-damage-501-sites"
   ],
+  "hezbollah": [
+    "2023-10-08-hezbollah-shebaa-farms-fire",
+    "2023-10-20-kiryat-shmona-evacuation-ordered",
+    "2024-07-27-majdal-shams-rocket-strike",
+    "2024-07-30-fuad-shukr-killed-beirut",
+    "2024-09-17-hezbollah-pager-explosions",
+    "2024-09-18-hezbollah-walkie-talkie-explosions",
+    "2024-09-27-nasrallah-killed-beirut-strike",
+    "2024-10-01-israel-ground-operation-southern-lebanon",
+    "2024-11-27-israel-lebanon-ceasefire",
+    "2025-08-05-lebanon-cabinet-hezbollah-disarmament-plan"
+  ],
   "himars": [
     "2022-07-24-himars-effect-on-front",
     "2023-01-01-makiivka-strike"
   ],
+  "histadrut": [
+    "2024-09-02-histadrut-general-strike-over-hostages"
+  ],
   "hmeimim": [
     "2024-12-08-assad-falls-russian-bases-syria"
   ],
+  "hodeidah": [
+    "2024-07-20-israel-strikes-hodeidah-port"
+  ],
   "hospital": [
     "2022-03-09-mariupol-maternity-hospital-airstrike",
+    "2023-10-17-al-ahli-arab-hospital-explosion",
+    "2023-11-15-israeli-forces-raid-al-shifa-hospital",
+    "2024-02-15-israeli-forces-storm-nasser-hospital",
+    "2024-03-18-israeli-forces-raid-al-shifa-hospital-again",
     "2024-07-08-okhmatdyt-hospital-strike"
+  ],
+  "hospitals": [
+    "2024-04-21-nasser-hospital-mass-graves-khan-younis",
+    "2024-10-06-jabalia-northern-gaza-siege",
+    "2024-10-25-kamal-adwan-hospital-raid"
+  ],
+  "hostage": [
+    "2022-06-30-icc-issues-first-arrest-warrants-in-georgia-situation"
+  ],
+  "hostages": [
+    "2023-10-07-hamas-attack-on-southern-israel",
+    "2023-11-22-israeli-cabinet-approves-hostage-truce-deal",
+    "2023-11-24-truce-begins-and-first-hostages-freed",
+    "2023-12-01-gaza-truce-collapses-and-fighting-resumes",
+    "2024-03-25-un-security-council-resolution-2728",
+    "2024-05-31-biden-announces-three-phase-ceasefire-proposal",
+    "2024-06-08-nuseirat-hostage-rescue",
+    "2024-06-10-unsc-adopts-resolution-2735",
+    "2024-09-01-six-hostages-found-dead-in-rafah",
+    "2024-09-02-histadrut-general-strike-over-hostages",
+    "2024-10-28-gaza-health-ministry-death-toll-passes-43000",
+    "2025-01-15-gaza-ceasefire-agreement-announced",
+    "2025-01-19-first-hostages-released-gaza-ceasefire",
+    "2025-02-27-hamas-hands-over-four-hostage-bodies-israel-frees-prisoners",
+    "2025-03-18-israel-resumes-strikes-on-gaza-ending-ceasefire",
+    "2025-05-12-hamas-releases-us-israeli-hostage-edan-alexander",
+    "2025-08-07-israeli-security-cabinet-approves-gaza-city-takeover-plan",
+    "2025-09-16-israel-begins-gaza-city-ground-offensive",
+    "2025-09-29-trump-unveils-20-point-gaza-peace-plan",
+    "2025-10-08-israel-and-hamas-agree-first-phase-of-trump-plan",
+    "2025-10-13-hamas-releases-20-living-hostages",
+    "2026-01-26-last-hostage-ran-gvili-body-recovered-from-gaza",
+    "2026-10-05-guterres-calls-for-permanent-gaza-ceasefire",
+    "2026-10-10-one-year-since-gaza-ceasefire"
   ],
   "hostomel": [
     "2022-02-24-battle-of-antonov-airport-hostomel"
@@ -916,6 +1582,17 @@
   "housing": [
     "2025-02-25-rdna4-reconstruction-cost-524-billion"
   ],
+  "houthis": [
+    "2023-11-19-houthis-seize-galaxy-leader",
+    "2023-12-18-operation-prosperity-guardian-announced",
+    "2024-01-11-us-uk-strikes-houthis-yemen",
+    "2024-01-12-us-and-uk-strike-houthi-targets-in-yemen",
+    "2024-07-20-israel-strikes-hodeidah-port",
+    "2025-01-22-galaxy-leader-crew-released",
+    "2025-03-15-operation-rough-rider-us-strikes-yemen",
+    "2025-05-06-us-houthi-ceasefire-oman",
+    "2025-08-28-israeli-strike-sanaa-houthi-government"
+  ],
   "hroza": [
     "2023-10-05-hroza-cafe-strike"
   ],
@@ -925,9 +1602,18 @@
   "humanitarian": [
     "2022-03-03-unhcr-one-million-refugees-fled-ukraine",
     "2022-04-05-iom-7-million-internally-displaced-ukraine",
+    "2022-12-12-lachin-corridor-blockade",
     "2023-06-06-kakhovka-dam-destruction-humanitarian",
     "2023-06-28-vatican-zuppi-moscow-ukrainian-children",
-    "2025-06-05-unmas-demining-contamination-ukraine"
+    "2023-10-01-karabakh-exodus-100000",
+    "2024-07-17-us-gaza-pier-dismantled",
+    "2025-05-19-israel-allows-limited-aid-into-gaza-after-blockade",
+    "2025-05-26-gaza-humanitarian-foundation-begins-operations",
+    "2025-06-05-unmas-demining-contamination-ukraine",
+    "2025-08-22-ipc-confirms-famine-in-gaza-governorate"
+  ],
+  "humanrights": [
+    "2009-01-23-hrw-publishes-up-in-flames-report"
   ],
   "hungary": [
     "2023-12-14-eu-opens-accession-talks",
@@ -937,21 +1623,57 @@
     "2026-02-18-hungary-slovakia-suspend-diesel-exports",
     "2026-04-23-eu-approves-90-billion-loan"
   ],
+  "hunger": [
+    "2024-11-08-famine-review-committee-alert-northern-gaza"
+  ],
   "iaea": [
     "2022-03-04-zaporizhzhia-nuclear-plant-occupied",
     "2022-03-04-zaporizhzhia-nuclear-plant-seized",
     "2022-08-29-iaea-isamz-mission-departs-for-zaporizhzhia",
-    "2022-09-01-iaea-mission-zaporizhzhia-npp"
+    "2022-09-01-iaea-mission-zaporizhzhia-npp",
+    "2024-04-19-israeli-strike-isfahan-iran"
   ],
   "icc": [
+    "2016-01-27-icc-authorises-investigation-in-georgia",
+    "2022-06-30-icc-issues-first-arrest-warrants-in-georgia-situation",
     "2023-03-17-icc-putin-arrest-warrant",
     "2023-03-17-icc-warrants-putin-lvova-belova",
+    "2024-05-20-icc-prosecutor-seeks-warrants-israel-hamas",
     "2024-06-25-icc-warrants-shoigu-gerasimov",
+    "2024-11-21-icc-issues-warrants-netanyahu-gallant-deif",
     "2025-06-25-special-tribunal-agreement-strasbourg",
     "2026-04-22-bring-kids-back-ua-over-2100-children-returned"
   ],
+  "icj": [
+    "2023-02-22-icj-order-lachin-corridor",
+    "2023-12-29-south-africa-files-genocide-case-at-icj",
+    "2024-01-26-icj-orders-provisional-measures-in-south-africa-v-israel",
+    "2024-05-24-icj-orders-israel-halt-rafah-offensive"
+  ],
   "icrc": [
     "2022-07-29-olenivka-prison-explosion"
+  ],
+  "idf": [
+    "2023-10-08-israel-declares-state-of-war",
+    "2023-10-20-kiryat-shmona-evacuation-ordered",
+    "2023-10-27-israel-expands-ground-operations-in-gaza",
+    "2023-12-05-israel-expands-offensive-to-khan-younis",
+    "2024-04-01-world-central-kitchen-convoy-strike",
+    "2024-04-21-nasser-hospital-mass-graves-khan-younis",
+    "2024-05-06-rafah-offensive-begins",
+    "2024-05-26-tel-al-sultan-rafah-strike",
+    "2024-06-08-nuseirat-hostage-rescue",
+    "2024-07-13-al-mawasi-strike-targets-mohammed-deif",
+    "2024-07-30-fuad-shukr-killed-beirut",
+    "2024-09-01-six-hostages-found-dead-in-rafah",
+    "2024-09-27-nasrallah-killed-beirut-strike",
+    "2024-10-01-israel-ground-operation-southern-lebanon",
+    "2024-10-06-jabalia-northern-gaza-siege",
+    "2024-10-16-sinwar-killed-in-rafah",
+    "2024-10-25-kamal-adwan-hospital-raid",
+    "2024-10-26-israeli-strikes-iran",
+    "2026-01-26-last-hostage-ran-gvili-body-recovered-from-gaza",
+    "2026-04-14-hamas-rejects-board-of-peace-disarmament-plan"
   ],
   "idps": [
     "2022-04-05-iom-7-million-internally-displaced-ukraine"
@@ -965,11 +1687,17 @@
   "incursion": [
     "2024-08-06-kursk-incursion-begins"
   ],
+  "independence": [
+    "2008-08-26-russia-recognizes-abkhazia-and-south-ossetia"
+  ],
   "india": [
     "2022-03-02-unga-resolution-es-11-1-vote",
     "2023-08-05-jeddah-ukraine-peace-talks",
     "2024-06-15-burgenstock-global-peace-summit",
     "2024-10-22-brics-kazan-summit"
+  ],
+  "indonesia": [
+    "2026-02-19-five-countries-pledge-troops-for-gaza-stabilization-force"
   ],
   "infrastructure": [
     "2022-10-10-russia-missile-strikes-energy",
@@ -981,27 +1709,62 @@
     "2025-03-11-jeddah-talks-ceasefire-proposal",
     "2025-07-13-south-korea-estimate-north-korean-shells-russia"
   ],
+  "interception": [
+    "2024-04-13-iran-drone-missile-attack-israel",
+    "2024-10-01-iran-missile-attack-israel"
+  ],
+  "intervention": [
+    "2008-08-08-russian-forces-enter-south-ossetia-through-roki-tunnel"
+  ],
   "invasion": [
     "2022-02-24-battle-of-antonov-airport-hostomel",
     "2022-02-24-full-scale-invasion-begins",
     "2022-02-24-snake-island-border-guards-warship",
     "2022-03-02-kherson-falls-to-russian-forces",
-    "2022-03-03-unhcr-one-million-refugees-fled-ukraine"
+    "2022-03-03-unhcr-one-million-refugees-fled-ukraine",
+    "2023-10-27-israel-expands-ground-operations-in-gaza"
   ],
   "investigation": [
+    "2016-01-27-icc-authorises-investigation-in-georgia",
     "2022-03-16-mariupol-drama-theatre-strike",
     "2022-07-29-olenivka-prison-explosion",
     "2022-09-15-izium-mass-graves",
     "2023-03-16-un-commission-energy-attacks-torture"
   ],
+  "investigative": [
+    "2008-08-11-fighting-for-tskhinvali-ends-and-casualty-claims"
+  ],
   "iom": [
     "2022-03-15-three-million-refugees-flee-ukraine",
     "2022-04-05-iom-7-million-internally-displaced-ukraine"
   ],
+  "ipc": [
+    "2024-11-08-famine-review-committee-alert-northern-gaza"
+  ],
   "iran": [
+    "2023-11-19-houthis-seize-galaxy-leader",
+    "2024-04-01-israeli-strike-iranian-consulate-damascus",
+    "2024-04-13-iran-drone-missile-attack-israel",
+    "2024-04-19-israeli-strike-isfahan-iran",
+    "2024-07-31-haniyeh-assassinated-in-tehran",
+    "2024-09-17-hezbollah-pager-explosions",
+    "2024-10-01-iran-missile-attack-israel",
+    "2024-10-26-israeli-strikes-iran",
+    "2025-06-13-israel-launches-strikes-iran-rising-lion",
+    "2025-06-22-us-strikes-fordow-natanz-isfahan",
+    "2025-06-23-iran-strikes-al-udeid-air-base",
+    "2025-06-24-israel-iran-ceasefire",
     "2025-07-21-alabuga-shahed-geran-drone-plant-tatarstan",
     "2026-02-02-ukraine-designates-irgc-terrorist",
     "2026-03-09-ukraine-interceptor-drones-jordan"
+  ],
+  "iraq": [
+    "2008-08-08-russian-air-strikes-on-gori-vaziani-and-poti"
+  ],
+  "irgc": [
+    "2024-04-01-israeli-strike-iranian-consulate-damascus",
+    "2024-10-01-iran-missile-attack-israel",
+    "2025-06-23-iran-strikes-al-udeid-air-base"
   ],
   "irpin": [
     "2022-04-03-bucha-civilian-killings-discovered"
@@ -1009,11 +1772,99 @@
   "isamz": [
     "2022-08-29-iaea-isamz-mission-departs-for-zaporizhzhia"
   ],
+  "isfahan": [
+    "2024-04-19-israeli-strike-isfahan-iran",
+    "2025-06-22-us-strikes-fordow-natanz-isfahan"
+  ],
   "iskander": [
+    "2008-08-12-medvedev-announces-end-of-military-operation",
     "2025-04-13-sumy-palm-sunday-missile-strike"
   ],
   "israel": [
-    "2024-04-24-us-aid-package-ukraine-signed"
+    "2020-09-27-bayraktar-loitering-munitions-karabakh",
+    "2023-10-07-hamas-attack-on-southern-israel",
+    "2023-10-08-hezbollah-shebaa-farms-fire",
+    "2023-10-08-israel-declares-state-of-war",
+    "2023-10-09-israel-orders-complete-siege-of-gaza",
+    "2023-10-13-israel-orders-northern-gaza-evacuation",
+    "2023-10-17-al-ahli-arab-hospital-explosion",
+    "2023-10-20-kiryat-shmona-evacuation-ordered",
+    "2023-10-27-gaza-health-ministry-casualty-figures-credibility",
+    "2023-10-27-israel-expands-ground-operations-in-gaza",
+    "2023-11-15-israeli-forces-raid-al-shifa-hospital",
+    "2023-11-19-houthis-seize-galaxy-leader",
+    "2023-11-22-israeli-cabinet-approves-hostage-truce-deal",
+    "2023-11-24-truce-begins-and-first-hostages-freed",
+    "2023-12-01-gaza-truce-collapses-and-fighting-resumes",
+    "2023-12-05-israel-expands-offensive-to-khan-younis",
+    "2023-12-29-south-africa-files-genocide-case-at-icj",
+    "2024-01-26-icj-orders-provisional-measures-in-south-africa-v-israel",
+    "2024-01-26-unrwa-funding-suspended-after-staff-allegations",
+    "2024-02-09-netanyahu-orders-rafah-evacuation-plan",
+    "2024-02-15-israeli-forces-storm-nasser-hospital",
+    "2024-02-29-flour-massacre-gaza-city",
+    "2024-03-18-israeli-forces-raid-al-shifa-hospital-again",
+    "2024-04-01-israeli-strike-iranian-consulate-damascus",
+    "2024-04-01-world-central-kitchen-convoy-strike",
+    "2024-04-13-iran-drone-missile-attack-israel",
+    "2024-04-19-israeli-strike-isfahan-iran",
+    "2024-04-24-us-aid-package-ukraine-signed",
+    "2024-05-06-rafah-offensive-begins",
+    "2024-05-20-icc-prosecutor-seeks-warrants-israel-hamas",
+    "2024-05-24-icj-orders-israel-halt-rafah-offensive",
+    "2024-05-26-tel-al-sultan-rafah-strike",
+    "2024-05-31-biden-announces-three-phase-ceasefire-proposal",
+    "2024-06-08-nuseirat-hostage-rescue",
+    "2024-06-10-unsc-adopts-resolution-2735",
+    "2024-07-13-al-mawasi-strike-targets-mohammed-deif",
+    "2024-07-17-us-gaza-pier-dismantled",
+    "2024-07-20-israel-strikes-hodeidah-port",
+    "2024-07-27-majdal-shams-rocket-strike",
+    "2024-07-30-fuad-shukr-killed-beirut",
+    "2024-07-31-haniyeh-assassinated-in-tehran",
+    "2024-09-01-six-hostages-found-dead-in-rafah",
+    "2024-09-02-histadrut-general-strike-over-hostages",
+    "2024-09-17-hezbollah-pager-explosions",
+    "2024-09-18-hezbollah-walkie-talkie-explosions",
+    "2024-09-27-nasrallah-killed-beirut-strike",
+    "2024-10-01-iran-missile-attack-israel",
+    "2024-10-01-israel-ground-operation-southern-lebanon",
+    "2024-10-16-sinwar-killed-in-rafah",
+    "2024-10-26-israeli-strikes-iran",
+    "2024-10-28-gaza-health-ministry-death-toll-passes-43000",
+    "2024-10-28-knesset-passes-laws-banning-unrwa",
+    "2024-11-07-amsterdam-maccabi-ajax-violence",
+    "2024-11-21-icc-issues-warrants-netanyahu-gallant-deif",
+    "2024-11-27-israel-lebanon-ceasefire",
+    "2025-01-15-gaza-ceasefire-agreement-announced",
+    "2025-01-19-first-hostages-released-gaza-ceasefire",
+    "2025-02-27-hamas-hands-over-four-hostage-bodies-israel-frees-prisoners",
+    "2025-03-02-israel-halts-all-aid-and-goods-entering-gaza",
+    "2025-03-18-israel-resumes-strikes-on-gaza-ending-ceasefire",
+    "2025-05-12-hamas-releases-us-israeli-hostage-edan-alexander",
+    "2025-05-19-israel-allows-limited-aid-into-gaza-after-blockade",
+    "2025-05-26-gaza-humanitarian-foundation-begins-operations",
+    "2025-05-28-netanyahu-says-mohammed-sinwar-killed",
+    "2025-06-13-israel-launches-strikes-iran-rising-lion",
+    "2025-06-22-us-strikes-fordow-natanz-isfahan",
+    "2025-06-24-israel-iran-ceasefire",
+    "2025-08-07-israeli-security-cabinet-approves-gaza-city-takeover-plan",
+    "2025-08-22-ipc-confirms-famine-in-gaza-governorate",
+    "2025-08-28-israeli-strike-sanaa-houthi-government",
+    "2025-09-09-israel-strikes-hamas-leaders-in-doha",
+    "2025-09-16-israel-begins-gaza-city-ground-offensive",
+    "2025-09-16-un-commission-of-inquiry-finds-genocide-in-gaza",
+    "2025-09-29-trump-unveils-20-point-gaza-peace-plan",
+    "2025-10-08-israel-and-hamas-agree-first-phase-of-trump-plan",
+    "2025-10-13-hamas-releases-20-living-hostages",
+    "2025-11-17-un-security-council-adopts-resolution-2803-on-gaza",
+    "2026-01-26-last-hostage-ran-gvili-body-recovered-from-gaza",
+    "2026-02-01-rafah-crossing-partially-reopens",
+    "2026-04-14-hamas-rejects-board-of-peace-disarmament-plan",
+    "2026-07-30-board-of-peace-announces-phased-hamas-disarmament-roadmap",
+    "2026-09-23-board-of-peace-proposes-2-45-billion-gaza-reconstruction-plan",
+    "2026-10-05-guterres-calls-for-permanent-gaza-ceasefire",
+    "2026-10-10-one-year-since-gaza-ceasefire"
   ],
   "istanbul": [
     "2022-03-29-istanbul-talks-russia-ukraine",
@@ -1032,12 +1883,22 @@
     "2022-09-10-kupiansk-izium-retaken",
     "2022-09-15-izium-mass-graves"
   ],
+  "jabalia": [
+    "2024-10-06-jabalia-northern-gaza-siege",
+    "2024-10-25-kamal-adwan-hospital-raid"
+  ],
   "japan": [
     "2022-12-05-g7-russian-oil-price-cap-takes-effect"
+  ],
+  "java": [
+    "2008-08-08-russian-forces-enter-south-ossetia-through-roki-tunnel"
   ],
   "jeddah": [
     "2023-08-05-jeddah-ukraine-peace-talks",
     "2025-03-11-jeddah-talks-ceasefire-proposal"
+  ],
+  "jermuk": [
+    "2022-09-13-armenia-azerbaijan-border-clashes"
   ],
   "jets": [
     "2023-07-11-f16-training-coalition"
@@ -1046,10 +1907,16 @@
     "2024-04-24-us-aid-package-ukraine-signed"
   ],
   "jordan": [
+    "2024-03-02-us-conducts-first-airdrop-of-aid-into-gaza",
+    "2024-04-13-iran-drone-missile-attack-israel",
+    "2026-02-19-five-countries-pledge-troops-for-gaza-stabilization-force",
     "2026-03-09-ukraine-interceptor-drones-jordan"
   ],
   "journalists": [
     "2025-06-25-unesco-verified-cultural-damage-501-sites"
+  ],
+  "jurisdiction": [
+    "2021-01-21-echr-grand-chamber-judgment-georgia-v-russia-ii"
   ],
   "justice": [
     "2025-06-25-special-tribunal-agreement-strasbourg",
@@ -1065,6 +1932,27 @@
   "kallas": [
     "2026-10-12-eu-approves-record-russia-sanctions-listings"
   ],
+  "kamaladwan": [
+    "2024-10-25-kamal-adwan-hospital-raid"
+  ],
+  "karabakh": [
+    "2020-09-27-bayraktar-loitering-munitions-karabakh",
+    "2020-09-27-karabakh-war-begins",
+    "2020-11-08-shusha-captured",
+    "2020-11-10-armenian-protests-against-ceasefire",
+    "2020-11-10-karabakh-ceasefire-statement",
+    "2022-12-12-lachin-corridor-blockade",
+    "2023-09-19-azerbaijan-offensive-karabakh",
+    "2023-09-20-karabakh-ceasefire-surrender",
+    "2023-09-27-ruben-vardanyan-detained",
+    "2023-10-01-karabakh-exodus-100000",
+    "2024-01-01-artsakh-republic-dissolved",
+    "2024-02-22-armenia-freezes-csto-participation",
+    "2024-06-12-russian-peacekeepers-leave-karabakh",
+    "2025-03-13-armenia-azerbaijan-peace-text-finalized",
+    "2025-09-01-osce-minsk-group-dissolved",
+    "2026-02-05-baku-court-sentences-karabakh-leaders"
+  ],
   "kazan": [
     "2024-10-22-brics-kazan-summit"
   ],
@@ -1072,6 +1960,15 @@
     "2022-10-08-crimean-bridge-explosion",
     "2023-07-17-crimean-bridge-second-attack",
     "2024-03-05-sergey-kotov-sea-drone-attack"
+  ],
+  "khan": [
+    "2025-05-28-netanyahu-says-mohammed-sinwar-killed"
+  ],
+  "khanyounis": [
+    "2023-12-05-israel-expands-offensive-to-khan-younis",
+    "2024-02-15-israeli-forces-storm-nasser-hospital",
+    "2024-04-21-nasser-hospital-mass-graves-khan-younis",
+    "2024-07-13-al-mawasi-strike-targets-mohammed-deif"
   ],
   "kharkiv": [
     "2022-02-24-full-scale-invasion-begins",
@@ -1101,11 +1998,25 @@
   "kirillov": [
     "2024-12-17-kirillov-assassinated-moscow"
   ],
+  "kiryat": [
+    "2023-10-20-kiryat-shmona-evacuation-ordered"
+  ],
+  "knesset": [
+    "2024-10-28-knesset-passes-laws-banning-unrwa"
+  ],
+  "kodori": [
+    "2008-08-09-fighting-in-the-kodori-valley-abkhazia",
+    "2008-08-12-medvedev-announces-end-of-military-operation"
+  ],
   "korea": [
     "2024-06-19-russia-north-korea-partnership-treaty",
     "2024-10-28-nato-confirms-north-korean-troops-kursk",
     "2024-11-17-us-permits-atacms-strikes-in-russia",
     "2025-07-13-south-korea-estimate-north-korean-shells-russia"
+  ],
+  "kosovo": [
+    "2008-02-17-kosovo-declares-independence-russia-warns-of-precedent",
+    "2008-04-16-putin-orders-direct-ties-with-abkhazia-and-south-ossetia"
   ],
   "kramatorsk": [
     "2022-04-08-kramatorsk-railway-station-strike"
@@ -1123,6 +2034,9 @@
   "kupiansk": [
     "2022-09-06-kharkiv-counteroffensive",
     "2022-09-10-kupiansk-izium-retaken"
+  ],
+  "kurashvili": [
+    "2008-08-07-georgian-forces-launch-operation-in-south-ossetia"
   ],
   "kursk": [
     "2024-08-06-kursk-incursion-begins",
@@ -1151,13 +2065,37 @@
     "2026-07-15-zelensky-dismisses-defense-minister-fedorov",
     "2026-09-25-us-seeks-to-revive-talks-kyiv-strikes"
   ],
+  "lachin": [
+    "2020-11-10-karabakh-ceasefire-statement",
+    "2022-12-12-lachin-corridor-blockade",
+    "2023-02-22-icj-order-lachin-corridor",
+    "2023-09-27-ruben-vardanyan-detained"
+  ],
   "lavrov": [
+    "2008-08-12-sarkozy-brokers-ceasefire-between-russia-and-georgia",
     "2026-10-13-trump-energy-ceasefire-claim"
   ],
   "law": [
     "2023-03-17-icc-putin-arrest-warrant",
+    "2023-12-29-south-africa-files-genocide-case-at-icj",
+    "2024-01-26-icj-orders-provisional-measures-in-south-africa-v-israel",
     "2024-04-02-ukraine-lowers-mobilisation-age-to-25",
     "2024-04-16-ukraine-mobilisation-law-signed"
+  ],
+  "lebanon": [
+    "2023-10-08-hezbollah-shebaa-farms-fire",
+    "2023-10-20-kiryat-shmona-evacuation-ordered",
+    "2024-07-27-majdal-shams-rocket-strike",
+    "2024-07-30-fuad-shukr-killed-beirut",
+    "2024-09-17-hezbollah-pager-explosions",
+    "2024-09-18-hezbollah-walkie-talkie-explosions",
+    "2024-09-27-nasrallah-killed-beirut-strike",
+    "2024-10-01-israel-ground-operation-southern-lebanon",
+    "2024-11-27-israel-lebanon-ceasefire",
+    "2025-08-05-lebanon-cabinet-hezbollah-disarmament-plan"
+  ],
+  "legislation": [
+    "2024-10-28-knesset-passes-laws-banning-unrwa"
   ],
   "lendlease": [
     "2022-05-09-lend-lease-act-signed"
@@ -1169,6 +2107,9 @@
   "liberation": [
     "2022-11-11-kherson-liberated"
   ],
+  "litani": [
+    "2024-11-27-israel-lebanon-ceasefire"
+  ],
   "loan": [
     "2025-12-19-eu-agrees-90-billion-euro-loan-for-ukraine",
     "2026-04-23-eu-approves-90-billion-loan"
@@ -1179,6 +2120,9 @@
   "logistics": [
     "2022-10-08-crimean-bridge-explosion",
     "2023-07-17-crimean-bridge-second-attack"
+  ],
+  "lomaia": [
+    "2008-09-13-russian-troops-leave-poti-area"
   ],
   "london": [
     "2022-07-04-ukraine-recovery-conference-lugano"
@@ -1222,11 +2166,20 @@
   "lysychansk": [
     "2022-06-25-sievierodonetsk-falls-to-russian-forces"
   ],
+  "maccabi": [
+    "2024-11-07-amsterdam-maccabi-ajax-violence"
+  ],
   "macron": [
     "2025-08-18-white-house-meeting-zelensky-european-leaders"
   ],
+  "majdal": [
+    "2024-07-27-majdal-shams-rocket-strike"
+  ],
   "makiivka": [
     "2023-01-01-makiivka-strike"
+  ],
+  "maritime": [
+    "2024-03-07-biden-announces-gaza-aid-pier"
   ],
   "mariupol": [
     "2022-03-09-mariupol-maternity-hospital-airstrike",
@@ -1235,20 +2188,33 @@
     "2022-05-16-azovstal-garrison-leaves-steelworks",
     "2022-07-29-olenivka-prison-explosion"
   ],
+  "martial": [
+    "2020-09-27-karabakh-war-begins"
+  ],
   "martiallaw": [
     "2024-04-02-ukraine-lowers-mobilisation-age-to-25"
   ],
   "massgrave": [
     "2022-09-15-izium-mass-graves"
   ],
+  "mediation": [
+    "2025-09-01-osce-minsk-group-dissolved"
+  ],
   "medinsky": [
     "2022-03-29-istanbul-talks-russia-ukraine",
     "2025-05-16-istanbul-talks-prisoner-swap-agreed"
+  ],
+  "medvedev": [
+    "2008-08-12-medvedev-announces-end-of-military-operation",
+    "2008-08-12-sarkozy-brokers-ceasefire-between-russia-and-georgia",
+    "2008-08-26-russia-recognizes-abkhazia-and-south-ossetia",
+    "2008-09-13-russian-troops-leave-poti-area"
   ],
   "melitopol": [
     "2023-06-04-ukrainian-summer-counteroffensive"
   ],
   "membership": [
+    "2008-04-03-nato-bucharest-summit-denies-georgia-map",
     "2023-07-11-vilnius-nato-summit",
     "2024-07-10-nato-washington-summit-declaration"
   ],
@@ -1271,6 +2237,9 @@
   "milley": [
     "2022-11-10-milley-russian-casualties-estimate"
   ],
+  "mindzaev": [
+    "2022-06-30-icc-issues-first-arrest-warrants-in-georgia-situation"
+  ],
   "minerals": [
     "2024-10-16-zelensky-victory-plan-rada",
     "2025-02-28-oval-office-meeting",
@@ -1281,7 +2250,17 @@
     "2022-11-11-kherson-liberated",
     "2025-06-05-unmas-demining-contamination-ukraine"
   ],
+  "mining": [
+    "2022-12-12-lachin-corridor-blockade"
+  ],
+  "ministers": [
+    "2025-08-28-israeli-strike-sanaa-houthi-government"
+  ],
+  "minsk": [
+    "2025-09-01-osce-minsk-group-dissolved"
+  ],
   "missile": [
+    "2008-08-08-russian-air-strikes-on-gori-vaziani-and-poti",
     "2022-03-01-kharkiv-freedom-square-strike",
     "2022-04-08-kramatorsk-railway-station-strike",
     "2022-04-14-sinking-of-the-moskva",
@@ -1296,18 +2275,27 @@
     "2023-05-11-storm-shadow-missiles-uk",
     "2023-07-19-odesa-port-strikes-after-grain-deal",
     "2023-10-17-atacms-first-use-airfields",
+    "2024-04-13-iran-drone-missile-attack-israel",
     "2024-07-08-okhmatdyt-hospital-strike",
+    "2024-10-01-iran-missile-attack-israel",
+    "2024-10-26-israeli-strikes-iran",
     "2024-11-17-us-permits-atacms-strikes-in-russia",
     "2024-11-21-oreshnik-strike-dnipro",
     "2025-04-13-sumy-palm-sunday-missile-strike",
+    "2025-06-23-iran-strikes-al-udeid-air-base",
     "2025-07-13-south-korea-estimate-north-korean-shells-russia",
     "2025-10-17-zelensky-washington-tomahawk-budapest-summit",
     "2026-05-24-russian-strike-on-kyiv-oreshnik"
   ],
   "mission": [
+    "2008-10-01-eu-monitoring-mission-deploys-in-georgia",
     "2023-06-16-african-leaders-peace-mission-kyiv-st-petersburg"
   ],
+  "mladenov": [
+    "2026-09-23-board-of-peace-proposes-2-45-billion-gaza-reconstruction-plan"
+  ],
   "mobilisation": [
+    "2020-09-27-karabakh-war-begins",
     "2022-09-21-putin-announces-partial-mobilisation",
     "2024-04-02-ukraine-lowers-mobilisation-age-to-25",
     "2024-04-16-ukraine-mobilisation-law-signed"
@@ -1323,8 +2311,15 @@
     "2023-12-14-eu-opens-accession-talks",
     "2024-06-25-eu-opens-accession-talks-ukraine-moldova"
   ],
+  "monitors": [
+    "2008-09-13-russian-troops-leave-poti-area",
+    "2008-10-01-eu-monitoring-mission-deploys-in-georgia"
+  ],
   "montreux": [
     "2022-02-turkey-montreux-straits-warships"
+  ],
+  "morocco": [
+    "2026-02-19-five-countries-pledge-troops-for-gaza-stabilization-force"
   ],
   "moscow": [
     "2023-03-20-xi-jinping-moscow-visit",
@@ -1336,6 +2331,7 @@
     "2025-05-09-victory-day-parade-moscow-xi"
   ],
   "moskva": [
+    "2008-08-10-black-sea-naval-clash-off-abkhazia",
     "2022-04-14-sinking-of-the-moskva"
   ],
   "munich": [
@@ -1353,7 +2349,20 @@
   "myrnohrad": [
     "2025-12-10-isw-assessment-pokrovsk-myrnohrad-fighting"
   ],
+  "nakhchivan": [
+    "2025-08-08-washington-summit-trump-route"
+  ],
+  "nasrallah": [
+    "2024-09-27-nasrallah-killed-beirut-strike",
+    "2024-10-01-iran-missile-attack-israel"
+  ],
+  "natanz": [
+    "2024-04-19-israeli-strike-isfahan-iran",
+    "2025-06-13-israel-launches-strikes-iran-rising-lion",
+    "2025-06-22-us-strikes-fordow-natanz-isfahan"
+  ],
   "nato": [
+    "2008-04-03-nato-bucharest-summit-denies-georgia-map",
     "2022-02-04-xi-putin-no-limits-statement",
     "2022-02-27-scholz-zeitenwende-bundestag-speech",
     "2022-04-26-ramstein-meeting-ukraine-defense-contact-group",
@@ -1381,12 +2390,18 @@
     "2024-02-16-navalny-dies-in-prison"
   ],
   "navy": [
+    "2008-08-10-black-sea-naval-clash-off-abkhazia",
     "2022-02-24-snake-island-border-guards-warship",
     "2022-02-turkey-montreux-straits-warships",
     "2022-04-14-sinking-of-the-moskva",
     "2023-09-22-sevastopol-fleet-headquarters-strike",
     "2024-03-05-sergey-kotov-sea-drone-attack",
     "2024-12-08-assad-falls-russian-bases-syria"
+  ],
+  "ncag": [
+    "2026-01-16-white-house-announces-board-of-peace-and-gaza-administration-committee",
+    "2026-02-01-rafah-crossing-partially-reopens",
+    "2026-07-30-board-of-peace-announces-phased-hamas-disarmament-roadmap"
   ],
   "needs": [
     "2022-04-05-iom-7-million-internally-displaced-ukraine"
@@ -1404,9 +2419,29 @@
   "neptune": [
     "2022-04-14-sinking-of-the-moskva"
   ],
+  "netanyahu": [
+    "2023-10-08-israel-declares-state-of-war",
+    "2024-02-09-netanyahu-orders-rafah-evacuation-plan",
+    "2024-04-01-world-central-kitchen-convoy-strike",
+    "2024-05-20-icc-prosecutor-seeks-warrants-israel-hamas",
+    "2024-05-26-tel-al-sultan-rafah-strike",
+    "2024-09-02-histadrut-general-strike-over-hostages",
+    "2024-11-21-icc-issues-warrants-netanyahu-gallant-deif",
+    "2025-03-02-israel-halts-all-aid-and-goods-entering-gaza",
+    "2025-03-18-israel-resumes-strikes-on-gaza-ending-ceasefire",
+    "2025-05-19-israel-allows-limited-aid-into-gaza-after-blockade",
+    "2025-05-28-netanyahu-says-mohammed-sinwar-killed",
+    "2025-06-13-israel-launches-strikes-iran-rising-lion",
+    "2025-06-24-israel-iran-ceasefire",
+    "2025-08-07-israeli-security-cabinet-approves-gaza-city-takeover-plan",
+    "2025-09-09-israel-strikes-hamas-leaders-in-doha",
+    "2025-09-29-trump-unveils-20-point-gaza-peace-plan",
+    "2026-01-26-last-hostage-ran-gvili-body-recovered-from-gaza"
+  ],
   "netherlands": [
     "2023-07-11-f16-training-coalition",
-    "2024-08-04-first-f-16-arrive-ukraine"
+    "2024-08-04-first-f-16-arrive-ukraine",
+    "2024-11-07-amsterdam-maccabi-ajax-violence"
   ],
   "newstart": [
     "2023-02-21-putin-suspends-new-start"
@@ -1420,8 +2455,14 @@
   "nofly": [
     "2022-03-16-zelensky-addresses-us-congress"
   ],
+  "nogovitsyn": [
+    "2008-08-22-russia-claims-pullout-from-gori-complete"
+  ],
   "nordstream": [
     "2022-09-26-nord-stream-explosions"
+  ],
+  "normalisation": [
+    "2023-12-07-armenia-azerbaijan-joint-statement"
   ],
   "northkorea": [
     "2026-09-23-ukraine-transfers-north-korean-pows-to-south-korea"
@@ -1438,18 +2479,34 @@
     "2022-11-23-russian-strikes-blackouts-ukraine-moldova",
     "2023-02-21-putin-suspends-new-start",
     "2023-02-24-china-position-paper",
-    "2023-03-25-putin-announces-nuclear-weapons-belarus"
+    "2023-03-25-putin-announces-nuclear-weapons-belarus",
+    "2025-06-13-israel-launches-strikes-iran-rising-lion",
+    "2025-06-22-us-strikes-fordow-natanz-isfahan"
+  ],
+  "nuseirat": [
+    "2024-06-08-nuseirat-hostage-rescue"
   ],
   "occupation": [
+    "2008-08-13-russian-forces-occupy-gori",
     "2022-03-02-kherson-falls-to-russian-forces",
     "2022-03-04-zaporizhzhia-nuclear-plant-occupied",
+    "2025-08-07-israeli-security-cabinet-approves-gaza-city-takeover-plan",
     "2026-04-22-bring-kids-back-ua-over-2100-children-returned"
   ],
   "occupied": [
     "2026-09-18-russian-duma-elections-occupied-territories"
   ],
   "ocha": [
+    "2024-10-06-jabalia-northern-gaza-siege",
     "2025-12-27-kyiv-attack-heating-power-outages"
+  ],
+  "october": [
+    "2023-10-07-hamas-attack-on-southern-israel",
+    "2023-10-08-israel-declares-state-of-war",
+    "2023-10-09-israel-orders-complete-siege-of-gaza",
+    "2023-10-17-al-ahli-arab-hospital-explosion",
+    "2023-10-27-gaza-health-ministry-casualty-figures-credibility",
+    "2023-10-27-israel-expands-ground-operations-in-gaza"
   ],
   "odesa": [
     "2022-04-14-sinking-of-the-moskva",
@@ -1460,9 +2517,12 @@
   ],
   "offensive": [
     "2023-06-04-ukrainian-summer-counteroffensive",
+    "2023-09-19-azerbaijan-offensive-karabakh",
     "2023-10-10-avdiivka-assault-begins",
+    "2024-05-06-rafah-offensive-begins",
     "2024-05-10-russian-kharkiv-offensive",
-    "2024-10-01-vuhledar-captured"
+    "2024-10-01-vuhledar-captured",
+    "2025-09-16-israel-begins-gaza-city-ground-offensive"
   ],
   "oil": [
     "2022-03-08-us-bans-russian-oil-imports",
@@ -1481,7 +2541,12 @@
   "olenya": [
     "2025-06-01-operation-spiderweb"
   ],
+  "oman": [
+    "2025-01-22-galaxy-leader-crew-released",
+    "2025-05-06-us-houthi-ceasefire-oman"
+  ],
   "opposition": [
+    "2020-11-10-armenian-protests-against-ceasefire",
     "2024-02-16-navalny-dies-in-prison"
   ],
   "orban": [
@@ -1499,14 +2564,37 @@
     "2024-03-12-ukrainian-drones-strike-refineries"
   ],
   "osce": [
+    "2008-10-15-geneva-international-discussions-open",
     "2022-03-09-mariupol-maternity-hospital-airstrike",
-    "2022-03-16-mariupol-drama-theatre-strike"
+    "2022-03-16-mariupol-drama-theatre-strike",
+    "2025-08-11-peace-agreement-text-published",
+    "2025-09-01-osce-minsk-group-dissolved"
   ],
   "oskil": [
     "2022-09-06-kharkiv-counteroffensive"
   ],
+  "ossetia": [
+    "2008-02-17-kosovo-declares-independence-russia-warns-of-precedent",
+    "2008-04-16-putin-orders-direct-ties-with-abkhazia-and-south-ossetia",
+    "2008-07-08-russian-jets-violate-georgian-airspace-as-tensions-rise",
+    "2008-08-07-georgia-announces-unilateral-ceasefire-in-south-ossetia",
+    "2008-08-07-georgian-forces-launch-operation-in-south-ossetia",
+    "2008-08-08-russian-forces-enter-south-ossetia-through-roki-tunnel",
+    "2008-08-11-fighting-for-tskhinvali-ends-and-casualty-claims",
+    "2008-08-26-russia-recognizes-abkhazia-and-south-ossetia",
+    "2008-10-01-eu-monitoring-mission-deploys-in-georgia",
+    "2008-10-15-geneva-international-discussions-open",
+    "2009-01-23-hrw-publishes-up-in-flames-report",
+    "2016-01-27-icc-authorises-investigation-in-georgia",
+    "2019-07-amnesty-report-on-borderization-along-the-boundary-line",
+    "2022-06-30-icc-issues-first-arrest-warrants-in-georgia-situation"
+  ],
   "oval": [
     "2025-02-28-oval-office-meeting"
+  ],
+  "pagers": [
+    "2024-09-17-hezbollah-pager-explosions",
+    "2024-09-18-hezbollah-walkie-talkie-explosions"
   ],
   "palmsunday": [
     "2025-04-13-sumy-palm-sunday-missile-strike"
@@ -1517,12 +2605,28 @@
   "parade": [
     "2025-05-09-victory-day-parade-moscow-xi"
   ],
+  "parliament": [
+    "2025-03-26-armenia-eu-accession-law"
+  ],
   "partners": [
     "2024-10-22-brics-kazan-summit"
   ],
   "partnership": [
     "2022-02-04-xi-putin-no-limits-statement",
     "2026-03-12-ukraine-romania-strategic-partnership"
+  ],
+  "pashinyan": [
+    "2020-11-10-armenian-protests-against-ceasefire",
+    "2021-11-16-armenia-azerbaijan-border-clashes",
+    "2022-09-13-armenia-azerbaijan-border-clashes",
+    "2023-12-07-armenia-azerbaijan-joint-statement",
+    "2024-02-22-armenia-freezes-csto-participation",
+    "2024-05-24-tavush-border-villages-returned",
+    "2025-03-13-armenia-azerbaijan-peace-text-finalized",
+    "2025-03-26-armenia-eu-accession-law"
+  ],
+  "patients": [
+    "2026-02-01-rafah-crossing-partially-reopens"
   ],
   "patriot": [
     "2022-12-21-us-patriot-battery-aid-package",
@@ -1536,9 +2640,23 @@
     "2023-02-24-china-position-paper",
     "2023-06-16-african-leaders-peace-mission-kyiv-st-petersburg",
     "2023-08-05-jeddah-ukraine-peace-talks",
+    "2023-12-07-armenia-azerbaijan-joint-statement",
     "2024-06-15-burgenstock-global-peace-summit",
     "2024-06-15-burgenstock-peace-summit",
-    "2024-07-05-orban-moscow-visit-putin"
+    "2024-07-05-orban-moscow-visit-putin",
+    "2025-03-13-armenia-azerbaijan-peace-text-finalized",
+    "2025-08-08-washington-summit-trump-route",
+    "2025-08-11-peace-agreement-text-published",
+    "2025-09-01-osce-minsk-group-dissolved",
+    "2025-09-29-trump-unveils-20-point-gaza-peace-plan"
+  ],
+  "peacekeepers": [
+    "2008-08-07-georgia-announces-unilateral-ceasefire-in-south-ossetia",
+    "2008-08-07-georgian-forces-launch-operation-in-south-ossetia",
+    "2020-11-10-karabakh-ceasefire-statement",
+    "2023-09-20-karabakh-ceasefire-surrender",
+    "2024-02-22-armenia-freezes-csto-participation",
+    "2024-06-12-russian-peacekeepers-leave-karabakh"
   ],
   "peaceplan": [
     "2025-11-19-reported-28-point-us-russia-peace-plan",
@@ -1547,6 +2665,13 @@
   "pentagon": [
     "2022-12-21-us-patriot-battery-aid-package",
     "2023-07-07-us-cluster-munitions-ukraine"
+  ],
+  "pier": [
+    "2024-03-07-biden-announces-gaza-aid-pier",
+    "2024-07-17-us-gaza-pier-dismantled"
+  ],
+  "pillay": [
+    "2025-09-16-un-commission-of-inquiry-finds-genocide-in-gaza"
   ],
   "pilots": [
     "2023-07-11-f16-training-coalition"
@@ -1571,8 +2696,14 @@
     "2023-01-20-ramstein-meeting-leopard-no-decision",
     "2025-09-10-russian-drones-enter-polish-airspace"
   ],
+  "police": [
+    "2024-11-07-amsterdam-maccabi-ajax-violence"
+  ],
   "policy": [
     "2024-11-17-us-permits-atacms-strikes-in-russia"
+  ],
+  "polio": [
+    "2024-08-16-gaza-polio-vaccination-campaign-pauses"
   ],
   "politics": [
     "2026-07-15-zelensky-dismisses-defense-minister-fedorov",
@@ -1584,8 +2715,21 @@
   "port": [
     "2023-07-19-odesa-port-strikes-after-grain-deal"
   ],
+  "poti": [
+    "2008-08-08-russian-air-strikes-on-gori-vaziani-and-poti",
+    "2008-08-10-black-sea-naval-clash-off-abkhazia",
+    "2008-08-12-medvedev-announces-end-of-military-operation",
+    "2008-08-22-russia-claims-pullout-from-gori-complete",
+    "2008-09-13-russian-troops-leave-poti-area"
+  ],
   "pow": [
     "2022-07-29-olenivka-prison-explosion"
+  ],
+  "precedent": [
+    "2008-02-17-kosovo-declares-independence-russia-warns-of-precedent"
+  ],
+  "prelude": [
+    "2008-07-08-russian-jets-violate-georgian-airspace-as-tensions-rise"
   ],
   "pricecap": [
     "2022-12-05-eu-russian-oil-price-cap",
@@ -1604,25 +2748,46 @@
   ],
   "prisoners": [
     "2022-07-29-olenivka-prison-explosion",
+    "2023-11-22-israeli-cabinet-approves-hostage-truce-deal",
+    "2023-11-24-truce-begins-and-first-hostages-freed",
+    "2023-12-07-armenia-azerbaijan-joint-statement",
     "2024-01-24-il-76-crash-belgorod",
+    "2025-01-19-first-hostages-released-gaza-ceasefire",
+    "2025-02-27-hamas-hands-over-four-hostage-bodies-israel-frees-prisoners",
     "2025-05-16-istanbul-talks-prisoner-swap-agreed",
     "2025-05-23-first-stage-of-1000-for-1000-prisoner-exchange",
+    "2025-10-13-hamas-releases-20-living-hostages",
     "2026-09-23-ukraine-transfers-north-korean-pows-to-south-korea"
   ],
   "programme": [
     "2023-03-31-imf-approves-15-billion-eff-ukraine"
   ],
+  "prosecutor": [
+    "2016-01-27-icc-authorises-investigation-in-georgia"
+  ],
   "protection": [
     "2022-03-04-eu-temporary-protection-directive"
   ],
+  "protest": [
+    "2024-09-02-histadrut-general-strike-over-hostages",
+    "2024-11-07-amsterdam-maccabi-ajax-violence"
+  ],
   "protests": [
+    "2020-11-10-armenian-protests-against-ceasefire",
+    "2024-05-24-tavush-border-villages-returned",
     "2026-07-15-zelensky-dismisses-defense-minister-fedorov",
     "2026-07-21-zelensky-replaces-syrskyi-with-drapatyi"
+  ],
+  "provisional": [
+    "2023-02-22-icj-order-lachin-corridor"
   ],
   "przewodow": [
     "2022-11-15-przewodow-missile-incident"
   ],
   "putin": [
+    "2008-02-17-kosovo-declares-independence-russia-warns-of-precedent",
+    "2008-04-16-putin-orders-direct-ties-with-abkhazia-and-south-ossetia",
+    "2020-11-10-karabakh-ceasefire-statement",
     "2022-02-04-xi-putin-no-limits-statement",
     "2022-02-24-full-scale-invasion-begins",
     "2022-09-21-putin-announces-partial-mobilisation",
@@ -1651,16 +2816,45 @@
   "pyongyang": [
     "2024-06-19-russia-north-korea-partnership-treaty"
   ],
+  "qatar": [
+    "2023-11-22-israeli-cabinet-approves-hostage-truce-deal",
+    "2023-11-24-truce-begins-and-first-hostages-freed",
+    "2025-01-15-gaza-ceasefire-agreement-announced",
+    "2025-05-12-hamas-releases-us-israeli-hostage-edan-alexander",
+    "2025-06-23-iran-strikes-al-udeid-air-base",
+    "2025-06-24-israel-iran-ceasefire",
+    "2025-09-09-israel-strikes-hamas-leaders-in-doha",
+    "2025-10-08-israel-and-hamas-agree-first-phase-of-trump-plan"
+  ],
   "rada": [
     "2024-04-16-ukraine-mobilisation-law-signed",
     "2024-10-16-zelensky-victory-plan-rada",
     "2026-08-19-rada-appoints-khmara-defense-minister"
   ],
+  "radar": [
+    "2024-04-19-israeli-strike-isfahan-iran"
+  ],
   "radev": [
     "2026-06-09-bulgaria-stops-arms-supplies-to-ukraine"
   ],
+  "rafah": [
+    "2023-12-01-gaza-truce-collapses-and-fighting-resumes",
+    "2024-02-09-netanyahu-orders-rafah-evacuation-plan",
+    "2024-05-06-rafah-offensive-begins",
+    "2024-05-24-icj-orders-israel-halt-rafah-offensive",
+    "2024-05-26-tel-al-sultan-rafah-strike",
+    "2024-09-01-six-hostages-found-dead-in-rafah",
+    "2024-10-16-sinwar-killed-in-rafah",
+    "2026-02-01-rafah-crossing-partially-reopens"
+  ],
+  "rahawi": [
+    "2025-08-28-israeli-strike-sanaa-houthi-government"
+  ],
   "railway": [
     "2022-09-10-kupiansk-izium-retaken"
+  ],
+  "ramadan": [
+    "2024-03-25-un-security-council-resolution-2728"
   ],
   "ramaphosa": [
     "2023-06-16-african-leaders-peace-mission-kyiv-st-petersburg"
@@ -1675,32 +2869,61 @@
   "rdna": [
     "2025-02-25-rdna4-reconstruction-cost-524-billion"
   ],
+  "recognition": [
+    "2008-08-26-russia-recognizes-abkhazia-and-south-ossetia"
+  ],
   "reconstruction": [
     "2022-07-04-ukraine-recovery-conference-lugano",
     "2023-04-06-world-bank-ukraine-gdp-2022-contraction",
     "2024-02-28-eu-ukraine-facility-approved",
     "2025-02-25-rdna4-reconstruction-cost-524-billion",
-    "2025-04-30-us-ukraine-minerals-agreement-signed"
+    "2025-04-30-us-ukraine-minerals-agreement-signed",
+    "2026-01-16-white-house-announces-board-of-peace-and-gaza-administration-committee",
+    "2026-09-23-board-of-peace-proposes-2-45-billion-gaza-reconstruction-plan",
+    "2026-10-10-one-year-since-gaza-ceasefire"
   ],
   "recovery": [
     "2023-04-06-world-bank-ukraine-gdp-2022-contraction"
   ],
+  "redcross": [
+    "2025-01-19-first-hostages-released-gaza-ceasefire"
+  ],
+  "redsea": [
+    "2023-11-19-houthis-seize-galaxy-leader",
+    "2023-12-18-operation-prosperity-guardian-announced",
+    "2024-01-11-us-uk-strikes-houthis-yemen",
+    "2024-01-12-us-and-uk-strike-houthi-targets-in-yemen",
+    "2024-07-20-israel-strikes-hodeidah-port",
+    "2025-01-22-galaxy-leader-crew-released",
+    "2025-03-15-operation-rough-rider-us-strikes-yemen",
+    "2025-05-06-us-houthi-ceasefire-oman"
+  ],
   "referendum": [
-    "2022-09-23-occupied-regions-referendums"
+    "2022-09-23-occupied-regions-referendums",
+    "2025-03-26-armenia-eu-accession-law"
   ],
   "refineries": [
     "2024-03-12-ukrainian-drones-strike-refineries"
   ],
   "refugees": [
+    "2008-08-13-russian-forces-occupy-gori",
     "2022-03-03-unhcr-one-million-refugees-fled-ukraine",
     "2022-03-04-eu-temporary-protection-directive",
-    "2022-03-15-three-million-refugees-flee-ukraine"
+    "2022-03-15-three-million-refugees-flee-ukraine",
+    "2023-10-01-karabakh-exodus-100000"
   ],
   "registerofdamage": [
     "2023-05-17-council-of-europe-register-of-damage"
   ],
+  "reintegration": [
+    "2024-01-01-artsakh-republic-dissolved"
+  ],
   "reparations": [
     "2023-05-17-council-of-europe-register-of-damage"
+  ],
+  "report": [
+    "2009-01-23-hrw-publishes-up-in-flames-report",
+    "2009-09-30-tagliavini-report-on-the-conflict-in-georgia"
   ],
   "republicans": [
     "2023-12-06-us-senate-blocks-ukraine-aid"
@@ -1712,7 +2935,12 @@
     "2022-09-21-putin-announces-partial-mobilisation"
   ],
   "resolution": [
-    "2022-03-02-unga-resolution-es-11-1-vote"
+    "2022-03-02-unga-resolution-es-11-1-vote",
+    "2024-06-10-unsc-adopts-resolution-2735"
+  ],
+  "retaliation": [
+    "2024-10-26-israeli-strikes-iran",
+    "2025-06-23-iran-strikes-al-udeid-air-base"
   ],
   "returns": [
     "2026-04-22-bring-kids-back-ua-over-2100-children-returned"
@@ -1726,7 +2954,12 @@
   "reznikov": [
     "2022-04-26-ramstein-meeting-ukraine-defense-contact-group"
   ],
+  "rice": [
+    "2008-07-08-russian-jets-violate-georgian-airspace-as-tensions-rise"
+  ],
   "rights": [
+    "2008-08-13-russian-forces-occupy-gori",
+    "2009-01-23-hrw-publishes-up-in-flames-report",
     "2022-03-04-eu-temporary-protection-directive"
   ],
   "riyadh": [
@@ -1734,6 +2967,12 @@
   ],
   "robotyne": [
     "2023-08-28-robotyne-recaptured"
+  ],
+  "rocket": [
+    "2024-07-27-majdal-shams-rocket-strike"
+  ],
+  "roki": [
+    "2008-08-08-russian-forces-enter-south-ossetia-through-roki-tunnel"
   ],
   "romania": [
     "2022-03-15-three-million-refugees-flee-ukraine",
@@ -1753,9 +2992,32 @@
   ],
   "rubio": [
     "2025-03-11-jeddah-talks-ceasefire-proposal",
+    "2025-09-16-israel-begins-gaza-city-ground-offensive",
     "2025-11-23-us-ukraine-talks-geneva"
   ],
   "russia": [
+    "2008-02-17-kosovo-declares-independence-russia-warns-of-precedent",
+    "2008-04-16-putin-orders-direct-ties-with-abkhazia-and-south-ossetia",
+    "2008-07-08-russian-jets-violate-georgian-airspace-as-tensions-rise",
+    "2008-08-07-georgian-forces-launch-operation-in-south-ossetia",
+    "2008-08-08-russian-air-strikes-on-gori-vaziani-and-poti",
+    "2008-08-08-russian-forces-enter-south-ossetia-through-roki-tunnel",
+    "2008-08-09-fighting-in-the-kodori-valley-abkhazia",
+    "2008-08-10-black-sea-naval-clash-off-abkhazia",
+    "2008-08-11-fighting-for-tskhinvali-ends-and-casualty-claims",
+    "2008-08-12-medvedev-announces-end-of-military-operation",
+    "2008-08-12-sarkozy-brokers-ceasefire-between-russia-and-georgia",
+    "2008-08-13-russian-forces-occupy-gori",
+    "2008-08-22-russia-claims-pullout-from-gori-complete",
+    "2008-08-26-russia-recognizes-abkhazia-and-south-ossetia",
+    "2008-09-13-russian-troops-leave-poti-area",
+    "2008-10-15-geneva-international-discussions-open",
+    "2009-01-23-hrw-publishes-up-in-flames-report",
+    "2009-09-30-tagliavini-report-on-the-conflict-in-georgia",
+    "2019-07-amnesty-report-on-borderization-along-the-boundary-line",
+    "2020-11-10-karabakh-ceasefire-statement",
+    "2021-01-21-echr-grand-chamber-judgment-georgia-v-russia-ii",
+    "2021-11-16-armenia-azerbaijan-border-clashes",
     "2022-02-04-xi-putin-no-limits-statement",
     "2022-02-24-battle-of-antonov-airport-hostomel",
     "2022-02-24-full-scale-invasion-begins",
@@ -1791,13 +3053,17 @@
     "2023-07-17-crimean-bridge-second-attack",
     "2023-07-19-odesa-port-strikes-after-grain-deal",
     "2023-08-23-prigozhin-plane-crash",
+    "2023-09-19-azerbaijan-offensive-karabakh",
+    "2023-09-20-karabakh-ceasefire-surrender",
     "2023-10-05-hroza-cafe-strike",
     "2023-10-10-avdiivka-assault-begins",
     "2023-11-07-russia-cfe-withdrawal-nato-suspends",
     "2024-01-24-il-76-crash-belgorod",
     "2024-02-16-navalny-dies-in-prison",
     "2024-02-17-avdiivka-withdrawal",
+    "2024-02-22-armenia-freezes-csto-participation",
     "2024-05-10-russian-kharkiv-offensive",
+    "2024-06-12-russian-peacekeepers-leave-karabakh",
     "2024-06-19-russia-north-korea-partnership-treaty",
     "2024-08-06-kursk-incursion-begins",
     "2024-08-19-pokrovsk-evacuation-order",
@@ -1810,6 +3076,7 @@
     "2024-12-17-kirillov-assassinated-moscow",
     "2025-03-13-russia-claims-recapture-of-sudzha-kursk",
     "2025-03-25-riyadh-talks-black-sea-ceasefire",
+    "2025-03-26-armenia-eu-accession-law",
     "2025-04-13-sumy-palm-sunday-missile-strike",
     "2025-06-01-operation-spiderweb",
     "2025-07-13-south-korea-estimate-north-korean-shells-russia",
@@ -1830,6 +3097,11 @@
   "ryazan": [
     "2022-12-05-engels-dyagilevo-airbase-strikes"
   ],
+  "saakashvili": [
+    "2008-08-07-georgia-announces-unilateral-ceasefire-in-south-ossetia",
+    "2008-08-07-georgian-forces-launch-operation-in-south-ossetia",
+    "2008-08-12-sarkozy-brokers-ceasefire-between-russia-and-georgia"
+  ],
   "sabotage": [
     "2022-09-26-nord-stream-explosions"
   ],
@@ -1837,11 +3109,20 @@
     "2022-08-29-iaea-isamz-mission-departs-for-zaporizhzhia",
     "2025-06-05-unmas-demining-contamination-ukraine"
   ],
+  "sahakyan": [
+    "2026-02-05-baku-court-sentences-karabakh-leaders"
+  ],
   "saky": [
     "2022-08-09-saky-airbase-explosions"
   ],
   "sale": [
     "2026-09-19-us-approves-air-defense-sale-ukraine"
+  ],
+  "sanaa": [
+    "2025-08-28-israeli-strike-sanaa-houthi-government"
+  ],
+  "sanakoev": [
+    "2022-06-30-icc-issues-first-arrest-warrants-in-georgia-situation"
   ],
   "sanctions": [
     "2022-02-26-joint-statement-swift-central-bank",
@@ -1862,6 +3143,9 @@
   "saratov": [
     "2022-12-05-engels-dyagilevo-airbase-strikes"
   ],
+  "sarkozy": [
+    "2008-08-12-sarkozy-brokers-ceasefire-between-russia-and-georgia"
+  ],
   "saudi": [
     "2023-08-05-jeddah-ukraine-peace-talks",
     "2025-03-11-jeddah-talks-ceasefire-proposal",
@@ -1877,12 +3161,22 @@
   "scholz": [
     "2022-02-27-scholz-zeitenwende-bundestag-speech"
   ],
+  "security": [
+    "2024-02-22-armenia-freezes-csto-participation",
+    "2025-11-17-un-security-council-adopts-resolution-2803-on-gaza"
+  ],
   "selydove": [
     "2024-08-19-pokrovsk-evacuation-order"
+  ],
+  "senaki": [
+    "2008-08-22-russia-claims-pullout-from-gori-complete"
   ],
   "senate": [
     "2023-12-06-us-senate-blocks-ukraine-aid",
     "2024-04-24-us-signs-ukraine-aid-package"
+  ],
+  "sentence": [
+    "2026-02-05-baku-court-sentences-karabakh-leaders"
   ],
   "sevastopol": [
     "2023-09-22-sevastopol-fleet-headquarters-strike"
@@ -1895,14 +3189,31 @@
     "2026-01-27-kharkiv-oblast-passenger-train-strike",
     "2026-02-02-ukraine-designates-irgc-terrorist"
   ],
+  "shahramanyan": [
+    "2024-01-01-artsakh-republic-dissolved"
+  ],
+  "shebaa": [
+    "2023-10-08-hezbollah-shebaa-farms-fire"
+  ],
   "shelling": [
     "2022-09-01-iaea-mission-zaporizhzhia-npp"
   ],
   "shells": [
     "2025-07-13-south-korea-estimate-north-korean-shells-russia"
   ],
+  "shinbet": [
+    "2024-10-16-sinwar-killed-in-rafah"
+  ],
   "shipping": [
-    "2023-07-19-odesa-port-strikes-after-grain-deal"
+    "2023-07-19-odesa-port-strikes-after-grain-deal",
+    "2023-11-19-houthis-seize-galaxy-leader",
+    "2023-12-18-operation-prosperity-guardian-announced",
+    "2024-01-11-us-uk-strikes-houthis-yemen",
+    "2024-01-12-us-and-uk-strike-houthi-targets-in-yemen",
+    "2025-01-22-galaxy-leader-crew-released"
+  ],
+  "ships": [
+    "2008-08-10-black-sea-naval-clash-off-abkhazia"
   ],
   "shoigu": [
     "2022-09-21-putin-announces-partial-mobilisation",
@@ -1911,15 +3222,27 @@
   "shortage": [
     "2024-02-17-avdiivka-withdrawal"
   ],
+  "shukr": [
+    "2024-07-30-fuad-shukr-killed-beirut"
+  ],
+  "shusha": [
+    "2020-11-08-shusha-captured"
+  ],
   "siege": [
     "2022-03-09-mariupol-maternity-hospital-airstrike",
     "2022-03-16-mariupol-drama-theatre-airstrike",
     "2022-03-16-mariupol-drama-theatre-strike",
     "2022-05-16-azovstal-garrison-leaves-steelworks",
+    "2023-10-09-israel-orders-complete-siege-of-gaza",
     "2023-10-10-avdiivka-assault-begins"
   ],
   "sievierodonetsk": [
     "2022-06-25-sievierodonetsk-falls-to-russian-forces"
+  ],
+  "sinwar": [
+    "2024-05-20-icc-prosecutor-seeks-warrants-israel-hamas",
+    "2024-10-16-sinwar-killed-in-rafah",
+    "2025-05-28-netanyahu-says-mohammed-sinwar-killed"
   ],
   "slovakia": [
     "2026-02-18-hungary-slovakia-suspend-diesel-exports"
@@ -1934,8 +3257,16 @@
   "south": [
     "2022-03-02-kherson-falls-to-russian-forces"
   ],
+  "southafrica": [
+    "2023-12-29-south-africa-files-genocide-case-at-icj",
+    "2024-01-26-icj-orders-provisional-measures-in-south-africa-v-israel",
+    "2024-05-24-icj-orders-israel-halt-rafah-offensive"
+  ],
   "southkorea": [
     "2026-09-23-ukraine-transfers-north-korean-pows-to-south-korea"
+  ],
+  "sovereignty": [
+    "2008-04-16-putin-orders-direct-ties-with-abkhazia-and-south-ossetia"
   ],
   "spain": [
     "2025-06-25-nato-hague-summit-five-percent-target"
@@ -1953,6 +3284,12 @@
   "ssu": [
     "2022-10-08-crimean-bridge-explosion"
   ],
+  "stabilization": [
+    "2025-11-17-un-security-council-adopts-resolution-2803-on-gaza",
+    "2026-01-16-white-house-announces-board-of-peace-and-gaza-administration-committee",
+    "2026-02-19-five-countries-pledge-troops-for-gaza-stabilization-force",
+    "2026-07-30-board-of-peace-announces-phased-hamas-disarmament-roadmap"
+  ],
   "stalemate": [
     "2023-11-01-zaluzhnyi-stalemate-essay"
   ],
@@ -1961,6 +3298,11 @@
   ],
   "starmer": [
     "2025-08-18-white-house-meeting-zelensky-european-leaders"
+  ],
+  "stepanakert": [
+    "2022-12-12-lachin-corridor-blockade",
+    "2023-09-19-azerbaijan-offensive-karabakh",
+    "2023-10-01-karabakh-exodus-100000"
   ],
   "stoltenberg": [
     "2022-05-18-finland-sweden-nato-applications",
@@ -1975,6 +3317,7 @@
     "2022-02-turkey-montreux-straits-warships"
   ],
   "strasbourg": [
+    "2021-01-21-echr-grand-chamber-judgment-georgia-v-russia-ii",
     "2025-06-25-special-tribunal-agreement-strasbourg"
   ],
   "strategy": [
@@ -1983,11 +3326,13 @@
   "strike": [
     "2023-01-01-makiivka-strike",
     "2023-01-14-dnipro-apartment-strike",
-    "2023-10-05-hroza-cafe-strike"
+    "2023-10-05-hroza-cafe-strike",
+    "2024-09-02-histadrut-general-strike-over-hostages"
   ],
   "strikes": [
     "2022-10-10-russia-missile-strikes-energy",
     "2022-11-23-russian-strikes-blackouts-ukraine-moldova",
+    "2024-01-12-us-and-uk-strike-houthi-targets-in-yemen",
     "2026-01-14-zelensky-energy-state-of-emergency",
     "2026-01-27-kharkiv-oblast-passenger-train-strike",
     "2026-05-24-russian-strike-on-kyiv-oreshnik",
@@ -1996,6 +3341,9 @@
   "sudzha": [
     "2024-08-06-kursk-incursion-begins",
     "2025-03-13-russia-claims-recapture-of-sudzha-kursk"
+  ],
+  "sukhumi": [
+    "2008-08-26-russia-recognizes-abkhazia-and-south-ossetia"
   ],
   "sullivan": [
     "2023-02-24-china-position-paper"
@@ -2017,7 +3365,8 @@
     "2022-11-11-kherson-liberated"
   ],
   "surrender": [
-    "2022-05-16-azovstal-garrison-leaves-steelworks"
+    "2022-05-16-azovstal-garrison-leaves-steelworks",
+    "2023-09-20-karabakh-ceasefire-surrender"
   ],
   "survey": [
     "2022-04-05-iom-7-million-internally-displaced-ukraine"
@@ -2051,6 +3400,7 @@
     "2022-03-01-kharkiv-freedom-square-strike"
   ],
   "syria": [
+    "2024-04-01-israeli-strike-iranian-consulate-damascus",
     "2024-12-08-assad-falls-russian-bases-syria"
   ],
   "syrskyi": [
@@ -2065,11 +3415,15 @@
   "tactical": [
     "2023-03-25-putin-announces-nuclear-weapons-belarus"
   ],
+  "tagliavini": [
+    "2009-09-30-tagliavini-report-on-the-conflict-in-georgia"
+  ],
   "taiwan": [
     "2022-02-04-xi-putin-no-limits-statement",
     "2024-04-24-us-aid-package-ukraine-signed"
   ],
   "talks": [
+    "2008-10-15-geneva-international-discussions-open",
     "2023-08-05-jeddah-ukraine-peace-talks",
     "2025-05-16-istanbul-talks-prisoner-swap-agreed",
     "2025-11-23-us-ukraine-talks-geneva",
@@ -2091,6 +3445,17 @@
   ],
   "tatarstan": [
     "2025-07-21-alabuga-shahed-geran-drone-plant-tatarstan"
+  ],
+  "tavush": [
+    "2020-07-12-tavush-border-clashes",
+    "2024-05-24-tavush-border-villages-returned"
+  ],
+  "tehran": [
+    "2024-07-31-haniyeh-assassinated-in-tehran",
+    "2025-06-13-israel-launches-strikes-iran-rising-lion"
+  ],
+  "tensions": [
+    "2008-07-08-russian-jets-violate-georgian-airspace-as-tensions-rise"
   ],
   "territory": [
     "2025-03-13-russia-claims-recapture-of-sudzha-kursk",
@@ -2123,41 +3488,78 @@
   ],
   "treaty": [
     "2023-11-07-russia-cfe-withdrawal-nato-suspends",
-    "2024-06-19-russia-north-korea-partnership-treaty"
+    "2024-06-19-russia-north-korea-partnership-treaty",
+    "2025-03-13-armenia-azerbaijan-peace-text-finalized",
+    "2025-08-11-peace-agreement-text-published"
+  ],
+  "trial": [
+    "2026-02-05-baku-court-sentences-karabakh-leaders"
   ],
   "tribunal": [
     "2025-06-25-special-tribunal-agreement-strasbourg",
     "2026-05-15-special-tribunal-aggression-36-countries"
   ],
+  "tripp": [
+    "2025-08-08-washington-summit-trump-route"
+  ],
   "troops": [
     "2024-10-28-nato-confirms-north-korean-troops-kursk",
-    "2025-07-13-south-korea-estimate-north-korean-shells-russia"
+    "2025-07-13-south-korea-estimate-north-korean-shells-russia",
+    "2026-02-19-five-countries-pledge-troops-for-gaza-stabilization-force"
   ],
   "truce": [
+    "2023-11-22-israeli-cabinet-approves-hostage-truce-deal",
+    "2023-11-24-truce-begins-and-first-hostages-freed",
+    "2023-12-01-gaza-truce-collapses-and-fighting-resumes",
     "2026-04-11-orthodox-easter-truce"
   ],
   "trump": [
     "2024-11-06-trump-wins-us-election",
+    "2025-01-15-gaza-ceasefire-agreement-announced",
     "2025-02-12-trump-putin-phone-call",
     "2025-02-28-oval-office-meeting",
     "2025-03-05-us-pauses-intelligence-sharing-with-ukraine",
+    "2025-03-15-operation-rough-rider-us-strikes-yemen",
     "2025-04-30-us-ukraine-minerals-agreement-signed",
+    "2025-05-06-us-houthi-ceasefire-oman",
+    "2025-05-12-hamas-releases-us-israeli-hostage-edan-alexander",
     "2025-05-23-first-stage-of-1000-for-1000-prisoner-exchange",
+    "2025-06-22-us-strikes-fordow-natanz-isfahan",
+    "2025-06-24-israel-iran-ceasefire",
     "2025-06-25-nato-hague-summit-five-percent-target",
     "2025-07-14-trump-50-day-deadline-russia",
+    "2025-08-08-washington-summit-trump-route",
     "2025-08-15-trump-putin-alaska-summit",
     "2025-08-18-white-house-meeting-zelensky-european-leaders",
+    "2025-09-09-israel-strikes-hamas-leaders-in-doha",
+    "2025-09-29-trump-unveils-20-point-gaza-peace-plan",
+    "2025-10-08-israel-and-hamas-agree-first-phase-of-trump-plan",
+    "2025-10-13-hamas-releases-20-living-hostages",
     "2025-10-17-zelensky-washington-tomahawk-budapest-summit",
     "2025-10-22-us-sanctions-rosneft-lukoil",
+    "2025-11-17-un-security-council-adopts-resolution-2803-on-gaza",
     "2025-11-19-reported-28-point-us-russia-peace-plan",
+    "2026-01-16-white-house-announces-board-of-peace-and-gaza-administration-committee",
+    "2026-07-30-board-of-peace-announces-phased-hamas-disarmament-roadmap",
+    "2026-09-23-board-of-peace-proposes-2-45-billion-gaza-reconstruction-plan",
+    "2026-10-10-one-year-since-gaza-ceasefire",
     "2026-10-13-trump-energy-ceasefire-claim"
   ],
+  "tskhinvali": [
+    "2008-08-07-georgia-announces-unilateral-ceasefire-in-south-ossetia",
+    "2008-08-07-georgian-forces-launch-operation-in-south-ossetia",
+    "2008-08-08-russian-forces-enter-south-ossetia-through-roki-tunnel",
+    "2008-08-11-fighting-for-tskhinvali-ends-and-casualty-claims",
+    "2009-09-30-tagliavini-report-on-the-conflict-in-georgia"
+  ],
   "turkey": [
+    "2020-09-27-bayraktar-loitering-munitions-karabakh",
     "2022-02-turkey-montreux-straits-warships",
     "2022-03-29-istanbul-talks-russia-ukraine",
     "2022-05-18-finland-sweden-nato-applications",
     "2022-07-22-black-sea-grain-initiative-istanbul",
     "2022-07-22-black-sea-grain-initiative-signed",
+    "2023-09-19-azerbaijan-offensive-karabakh",
     "2024-03-07-sweden-joins-nato",
     "2025-05-16-istanbul-talks-prisoner-swap-agreed"
   ],
@@ -2167,14 +3569,19 @@
   "tver": [
     "2023-08-23-prigozhin-plane-crash"
   ],
+  "twelveday": [
+    "2025-06-24-israel-iran-ceasefire"
+  ],
   "uae": [
     "2022-12-08-griner-bout-prisoner-swap"
   ],
   "uk": [
     "2022-02-26-joint-statement-swift-central-bank",
-    "2022-03-08-us-bans-russian-oil-imports"
+    "2022-03-08-us-bans-russian-oil-imports",
+    "2024-01-11-us-uk-strikes-houthis-yemen"
   ],
   "ukraine": [
+    "2008-04-03-nato-bucharest-summit-denies-georgia-map",
     "2022-02-24-battle-of-antonov-airport-hostomel",
     "2022-02-24-full-scale-invasion-begins",
     "2022-02-24-snake-island-border-guards-warship",
@@ -2234,13 +3641,32 @@
     "2025-05-23-first-stage-of-1000-for-1000-prisoner-exchange"
   ],
   "un": [
+    "2008-10-15-geneva-international-discussions-open",
     "2022-03-02-unga-resolution-es-11-1-vote",
     "2022-07-22-black-sea-grain-initiative-istanbul",
     "2022-07-22-black-sea-grain-initiative-signed",
     "2022-07-29-olenivka-prison-explosion",
     "2022-09-01-iaea-mission-zaporizhzhia-npp",
     "2022-09-23-occupied-regions-referendums",
-    "2023-10-05-hroza-cafe-strike"
+    "2023-02-22-icj-order-lachin-corridor",
+    "2023-10-01-karabakh-exodus-100000",
+    "2023-10-05-hroza-cafe-strike",
+    "2023-10-13-israel-orders-northern-gaza-evacuation",
+    "2023-10-27-gaza-health-ministry-casualty-figures-credibility",
+    "2023-12-05-israel-expands-offensive-to-khan-younis",
+    "2024-01-26-unrwa-funding-suspended-after-staff-allegations",
+    "2024-02-29-flour-massacre-gaza-city",
+    "2024-03-25-un-security-council-resolution-2728",
+    "2024-04-21-nasser-hospital-mass-graves-khan-younis",
+    "2024-06-10-unsc-adopts-resolution-2735",
+    "2024-10-28-knesset-passes-laws-banning-unrwa",
+    "2025-01-22-galaxy-leader-crew-released",
+    "2025-05-19-israel-allows-limited-aid-into-gaza-after-blockade",
+    "2025-05-26-gaza-humanitarian-foundation-begins-operations",
+    "2025-08-22-ipc-confirms-famine-in-gaza-governorate",
+    "2025-09-16-un-commission-of-inquiry-finds-genocide-in-gaza",
+    "2025-11-17-un-security-council-adopts-resolution-2803-on-gaza",
+    "2026-10-05-guterres-calls-for-permanent-gaza-ceasefire"
   ],
   "unesco": [
     "2025-06-25-unesco-verified-cultural-damage-501-sites"
@@ -2252,12 +3678,39 @@
     "2022-03-03-unhcr-one-million-refugees-fled-ukraine",
     "2022-03-15-three-million-refugees-flee-ukraine"
   ],
+  "unicef": [
+    "2024-08-16-gaza-polio-vaccination-campaign-pauses"
+  ],
   "unitednations": [
     "2022-07-22-black-sea-grain-initiative-signed",
     "2023-03-16-un-commission-energy-attacks-torture"
   ],
   "unmas": [
     "2025-06-05-unmas-demining-contamination-ukraine"
+  ],
+  "unomig": [
+    "2008-08-09-fighting-in-the-kodori-valley-abkhazia"
+  ],
+  "unrwa": [
+    "2024-01-26-unrwa-funding-suspended-after-staff-allegations",
+    "2024-10-28-knesset-passes-laws-banning-unrwa"
+  ],
+  "us": [
+    "2023-12-18-operation-prosperity-guardian-announced",
+    "2024-01-11-us-uk-strikes-houthis-yemen",
+    "2024-01-12-us-and-uk-strike-houthi-targets-in-yemen",
+    "2024-03-02-us-conducts-first-airdrop-of-aid-into-gaza",
+    "2024-03-07-biden-announces-gaza-aid-pier",
+    "2024-03-25-un-security-council-resolution-2728",
+    "2024-04-13-iran-drone-missile-attack-israel",
+    "2024-05-31-biden-announces-three-phase-ceasefire-proposal",
+    "2024-07-17-us-gaza-pier-dismantled",
+    "2024-10-26-israeli-strikes-iran",
+    "2024-11-27-israel-lebanon-ceasefire",
+    "2025-03-15-operation-rough-rider-us-strikes-yemen",
+    "2025-05-06-us-houthi-ceasefire-oman",
+    "2025-06-22-us-strikes-fordow-natanz-isfahan",
+    "2025-06-23-iran-strikes-al-udeid-air-base"
   ],
   "usa": [
     "2022-02-26-joint-statement-swift-central-bank",
@@ -2287,15 +3740,27 @@
   "utkin": [
     "2023-08-23-prigozhin-plane-crash"
   ],
+  "vaccination": [
+    "2024-08-16-gaza-polio-vaccination-campaign-pauses"
+  ],
   "vance": [
     "2025-02-14-vance-munich-security-conference-speech",
     "2025-02-28-oval-office-meeting"
   ],
+  "vardanyan": [
+    "2023-09-27-ruben-vardanyan-detained"
+  ],
   "vatican": [
     "2023-06-28-vatican-zuppi-moscow-ukrainian-children"
   ],
+  "vaziani": [
+    "2008-08-08-russian-air-strikes-on-gori-vaziani-and-poti"
+  ],
   "verbove": [
     "2023-06-04-ukrainian-summer-counteroffensive"
+  ],
+  "victims": [
+    "2016-01-27-icc-authorises-investigation-in-georgia"
   ],
   "victory": [
     "2024-10-16-zelensky-victory-plan-rada",
@@ -2304,9 +3769,16 @@
   "village": [
     "2023-08-28-robotyne-recaptured"
   ],
+  "villages": [
+    "2019-07-amnesty-report-on-borderization-along-the-boundary-line",
+    "2024-05-24-tavush-border-villages-returned"
+  ],
   "vilnius": [
     "2023-07-11-f16-training-coalition",
     "2023-07-11-vilnius-nato-summit"
+  ],
+  "violations": [
+    "2021-01-21-echr-grand-chamber-judgment-georgia-v-russia-ii"
   ],
   "visit": [
     "2022-12-21-zelensky-visits-washington"
@@ -2326,6 +3798,9 @@
     "2023-06-24-wagner-mutiny",
     "2023-08-23-prigozhin-plane-crash"
   ],
+  "walkietalkies": [
+    "2024-09-18-hezbollah-walkie-talkie-explosions"
+  ],
   "wallace": [
     "2023-05-11-storm-shadow-missiles-uk"
   ],
@@ -2340,19 +3815,23 @@
     "2022-09-15-izium-mass-graves"
   ],
   "warcrimes": [
+    "2016-01-27-icc-authorises-investigation-in-georgia",
     "2022-03-16-mariupol-drama-theatre-strike",
     "2022-04-03-bucha-civilian-killings-discovered",
     "2022-07-29-olenivka-prison-explosion",
     "2023-03-16-un-commission-energy-attacks-torture",
     "2023-03-17-icc-warrants-putin-lvova-belova",
+    "2024-04-21-nasser-hospital-mass-graves-khan-younis",
     "2024-06-25-icc-warrants-shoigu-gerasimov"
   ],
   "warrant": [
     "2023-03-17-icc-putin-arrest-warrant"
   ],
   "warrants": [
+    "2022-06-30-icc-issues-first-arrest-warrants-in-georgia-situation",
     "2023-03-17-icc-warrants-putin-lvova-belova",
-    "2024-06-25-icc-warrants-shoigu-gerasimov"
+    "2024-06-25-icc-warrants-shoigu-gerasimov",
+    "2024-11-21-icc-issues-warrants-netanyahu-gallant-deif"
   ],
   "washington": [
     "2022-12-21-zelensky-visits-washington",
@@ -2362,8 +3841,13 @@
     "2024-11-06-trump-wins-us-election",
     "2025-02-28-oval-office-meeting",
     "2025-04-30-us-ukraine-minerals-agreement-signed",
+    "2025-08-08-washington-summit-trump-route",
+    "2025-08-11-peace-agreement-text-published",
     "2025-08-18-white-house-meeting-zelensky-european-leaders",
     "2025-10-17-zelensky-washington-tomahawk-budapest-summit"
+  ],
+  "wck": [
+    "2024-04-01-world-central-kitchen-convoy-strike"
   ],
   "weapons": [
     "2022-04-26-ramstein-meeting-ukraine-defense-contact-group",
@@ -2376,22 +3860,35 @@
     "2026-06-09-bulgaria-stops-arms-supplies-to-ukraine",
     "2026-09-19-us-approves-air-defense-sale-ukraine"
   ],
+  "wfp": [
+    "2024-11-08-famine-review-committee-alert-northern-gaza"
+  ],
+  "who": [
+    "2024-02-15-israeli-forces-storm-nasser-hospital",
+    "2024-08-16-gaza-polio-vaccination-campaign-pauses",
+    "2024-10-25-kamal-adwan-hospital-raid"
+  ],
   "winter": [
     "2022-11-23-russian-strikes-nationwide-blackouts-ukraine",
     "2025-12-27-kyiv-attack-heating-power-outages",
     "2026-01-14-zelensky-energy-state-of-emergency"
   ],
   "withdrawal": [
+    "2008-08-22-russia-claims-pullout-from-gori-complete",
+    "2008-09-13-russian-troops-leave-poti-area",
     "2022-11-11-kherson-liberated",
     "2023-01-11-soledar-capture",
     "2024-02-17-avdiivka-withdrawal",
+    "2024-06-12-russian-peacekeepers-leave-karabakh",
     "2024-10-01-vuhledar-captured"
   ],
   "witkoff": [
+    "2025-05-12-hamas-releases-us-israeli-hostage-edan-alexander",
     "2025-08-15-trump-putin-alaska-summit",
     "2025-11-19-reported-28-point-us-russia-peace-plan",
     "2025-11-23-us-ukraine-talks-geneva",
     "2025-12-14-berlin-talks-security-guarantees",
+    "2026-01-16-white-house-announces-board-of-peace-and-gaza-administration-committee",
     "2026-01-23-abu-dhabi-trilateral-talks",
     "2026-09-25-us-seeks-to-revive-talks-kyiv-strikes"
   ],
@@ -2404,6 +3901,23 @@
     "2023-03-20-xi-jinping-moscow-visit",
     "2024-10-22-brics-kazan-summit",
     "2025-05-09-victory-day-parade-moscow-xi"
+  ],
+  "yakobashvili": [
+    "2008-08-07-georgia-announces-unilateral-ceasefire-in-south-ossetia"
+  ],
+  "yemen": [
+    "2023-11-19-houthis-seize-galaxy-leader",
+    "2023-12-18-operation-prosperity-guardian-announced",
+    "2024-01-11-us-uk-strikes-houthis-yemen",
+    "2024-01-12-us-and-uk-strike-houthi-targets-in-yemen",
+    "2024-07-20-israel-strikes-hodeidah-port",
+    "2025-01-22-galaxy-leader-crew-released",
+    "2025-03-15-operation-rough-rider-us-strikes-yemen",
+    "2025-05-06-us-houthi-ceasefire-oman",
+    "2025-08-28-israeli-strike-sanaa-houthi-government"
+  ],
+  "yerevan": [
+    "2020-11-10-armenian-protests-against-ceasefire"
   ],
   "yermak": [
     "2025-11-23-us-ukraine-talks-geneva"
