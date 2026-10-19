@@ -24,6 +24,7 @@ export async function ask(
       model: MODEL,
       messages,
       stream: false,
+      keep_alive: -1,
       options: { num_ctx: 8192, temperature: 0.2 },
       ...extra,
     }),
