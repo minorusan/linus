@@ -4,7 +4,7 @@ import * as bash from "./bash.ts";
 import * as weather from "./weather.ts";
 import * as web_search from "./web_search.ts";
 
-const all = [read_file, write_file, bash, weather, web_search];
+const all = [read_file, write_file, bash, weather /* , web_search */];
 
 export const tools = all.map((t) => t.schema);
 
