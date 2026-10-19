@@ -1,58 +1,32 @@
 import { readFileSync } from "node:fs";
+import { embed, cosine } from "../embed.ts";
 
 const DATASET = new URL("../../dataset/", import.meta.url);
 
-// How many single-character edits a prompt word may be away from a tag
-// and still count as a hit. 0 is exact match. 1 catches typos and plural
-// endings. 2 is already noise: "dam" is two edits from "duma", "gas",
-// "war" and "law".
-const MAX_DISTANCE = 1;
-
-// How many documents are fed to the model.
+// How many questions survive the ranking. The documents behind them then
+// vote, and one document is fed to the model.
 const TOP_K = 5;
 
+// The index, version two: questions a document can answer, each with the
+// id of its document and a 768-number vector of its meaning.
+//
+// Built once, offline, by demos/rag/doc2query.ts: a big model reads each
+// document and writes five questions it answers, each naming its event,
+// place or person so it stands on its own. Then every question is
+// embedded with nomic-embed-text and the vector is stored next to it.
+// 196 documents, 980 questions, about 6 MB of JSON.
+//
+// Nothing here is per turn. The expensive model ran when nobody was
+// waiting. At query time the only model call is one embedding.
+type Question = { question: string; doc: string; vector: number[] };
 type Doc = { id: string; title: string; body: string; url: string };
 
-// The index, version one: a hand-made map from a single-word tag to the
-// documents it applies to. Built once, outside the agent. 540 tags for
-// 196 documents, 3 to 8 tags per document.
-const tags: Record<string, string[]> = JSON.parse(
-  readFileSync(new URL("tags.json", DATASET), "utf8"),
+const questions: Question[] = JSON.parse(
+  readFileSync(new URL("questions.json", DATASET), "utf8"),
 );
 
 const doc = (id: string): Doc =>
   JSON.parse(readFileSync(new URL(`docs/${id}.json`, DATASET), "utf8"));
-
-// Levenshtein distance: the smallest number of single-character inserts,
-// deletes or replacements that turns a into b.
-//
-//   did -> aid        1  (replace d with a)
-//   how -> hrw        1  (replace o with r)
-//   dam -> duma       2  (replace a with u, insert a)
-//   breach -> dam     6  (no threshold reaches a synonym)
-//
-// d[i][j] is the distance between the first i characters of a and the
-// first j characters of b. Each cell comes from its three neighbours:
-// delete one from a (up), insert one into a (left), or replace or keep
-// the current character (diagonal). The answer is the bottom-right cell.
-//
-// It compares characters, not meaning. Short words are the problem: a
-// three-letter word is within distance 1 of every three-letter tag that
-// shares two characters with it. Long words have no neighbours.
-function levenshtein(a: string, b: string): number {
-  const d = Array.from({ length: a.length + 1 }, (_, i) => [i]);
-  for (let j = 1; j <= b.length; j++) d[0][j] = j;
-  for (let i = 1; i <= a.length; i++) {
-    for (let j = 1; j <= b.length; j++) {
-      d[i][j] = Math.min(
-        d[i - 1][j] + 1,
-        d[i][j - 1] + 1,
-        d[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1),
-      );
-    }
-  }
-  return d[a.length][b.length];
-}
 
 export const schema = {
   type: "function",
@@ -68,35 +42,55 @@ export const schema = {
   },
 };
 
-// Retrieval, version two: every word of the prompt against every tag.
+// Retrieval, version three: compare meaning, not characters.
 //
-// A document scores one point per distinct prompt word that reached one
-// of its tags. Ranking by points is what saves distance 1: "kakhovka"
-// and "dam" both reach the dam documents (2 points), while "did" reaching
-// "aid" gives sixteen aid documents 1 point each, so they come last.
+// The prompt becomes a vector with the same model that embedded the
+// questions. Cosine between two vectors is the angle between them: 1 is
+// the same direction, 0 is nothing in common. nomic's scores sit between
+// 0.4 (unrelated) and 0.85 (near paraphrase), so top-K is a sort, never a
+// threshold.
 //
-// Deterministic, instant, testable. Blind to synonyms, paraphrase and any
-// language the tags are not written in.
-export const handler = ({ query }: { query: string }) => {
-  const words = query.toLowerCase().replace(/[^a-z\s]/g, "").split(/\s+/).filter(Boolean);
+// "search_query:" and "search_document:" are prefixes nomic was trained
+// with. They tell it which side of the comparison a text is on.
+export const handler = async ({ query }: { query: string }) => {
+  const [v] = await embed([`search_query: ${query}`]);
 
-  const points = new Map<string, number>();
-  for (const word of words) {
-    for (const tag of Object.keys(tags)) {
-      if (levenshtein(word, tag) > MAX_DISTANCE) continue;
-      console.log(`  ~~ ${word} -> ${tag} (${tags[tag].length} docs)`);
-      for (const id of tags[tag]) points.set(id, (points.get(id) ?? 0) + 1);
-    }
+  const ranked = questions
+    .map((q) => ({ ...q, score: cosine(v, q.vector) }))
+    .sort((a, b) => b.score - a.score)
+    .slice(0, TOP_K);
+
+  for (const r of ranked) {
+    console.log(`  ~~ ${r.score.toFixed(3)} ${r.question}  [${r.doc}]`);
   }
 
-  const picked = [...points].sort((a, b) => b[1] - a[1]).slice(0, TOP_K);
-  if (picked.length === 0) return `no tags match: ${words.join(" ")}`;
+  // Top-K questions, not top-K documents. Several hits usually point at
+  // the same document, and a question about a neighbouring event can tie
+  // for first place. Counting votes per document is deterministic and
+  // settles the tie. It can also lose: one strong hit against two weak
+  // hits from another document. The next version removes the vote.
+  // Count how many of the five questions belong to each document.
+  const votes = new Map<string, number>();
+  for (const r of ranked) {
+    const current = votes.get(r.doc) ?? 0;
+    votes.set(r.doc, current + 1);
+  }
 
-  for (const [id, n] of picked) console.log(`  ~~ ${n} ${id}`);
+  // The document with the most votes wins. On a tie the one that appeared
+  // first in the ranking keeps the lead, because only a strictly higher
+  // count replaces it.
+  let winner = ranked[0].doc;
+  let count = 0;
+  for (const [id, n] of votes) {
+    if (n > count) {
+      winner = id;
+      count = n;
+    }
+  }
+  console.log(`  ~~ ${count}/${TOP_K} votes -> ${winner}`);
 
-  // Still whole documents, same as grep. Only the selection changed.
-  return picked
-    .map(([id]) => doc(id))
-    .map((d) => `# ${d.title}\n${d.url}\n${d.body}`)
-    .join("\n\n");
+  // Still a whole document. The model gets 300 words to answer a question
+  // one sentence answers.
+  const d = doc(winner);
+  return `# ${d.title}\n${d.url}\n${d.body}`;
 };
