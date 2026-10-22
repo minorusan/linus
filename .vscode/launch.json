@@ -8,7 +8,13 @@
       "program": "${workspaceFolder}/src/agent.ts",
       "console": "integratedTerminal",
       "cwd": "${workspaceFolder}/playground",
-      "skipFiles": ["<node_internals>/**"]
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "env": {
+        "OLLAMA_HOST": "http://192.168.0.229:11434",
+        "AGENT_MODEL": "gemma4:26b"
+      }
     }
   ]
 }
